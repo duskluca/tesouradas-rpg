@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "46ccd4c40c71bc1c",
+      "type": "text",
+      "text": "Pistas faladas\nCriaturas\nInformacoes da Clari",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": 0,
+      "y": -90,
+      "width": 202,
+      "height": 97
+    },
+    {
+      "id": "1bfe82a1dab18018",
+      "type": "text",
+      "text": "Cartas\nDiários\nMapas\n",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -160,
+      "y": -80,
+      "width": 100,
+      "height": 97
+    }
+  ],
+  "edges": []
+}

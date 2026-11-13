@@ -1,0 +1,771 @@
+{
+  "nodes": [
+    {
+      "id": "2bac495e4b2fbe01",
+      "type": "text",
+      "text": "Tripulação",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1720,
+      "y": 41,
+      "width": 260,
+      "height": 60,
+      "color": "#f59e72"
+    },
+    {
+      "id": "e6f7bcc7ead1e688",
+      "type": "file",
+      "file": "Poti.jpeg",
+      "x": -1850,
+      "y": 120,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "5e258b4cceeff1be",
+      "type": "text",
+      "text": "**Pontos de afinidade**\n\nGaspar <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span>\nPhilippe <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span>\nBarbara <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nClarissa ○○○○○\nBento <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1590,
+      "y": 180,
+      "width": 250,
+      "height": 200
+    },
+    {
+      "id": "92118ac025b4e91a",
+      "type": "text",
+      "text": "**Poti** (Manoel Gonçalves)",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -1590,
+      "y": 120,
+      "width": 250,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "d806eb6e2c6c726a",
+      "type": "text",
+      "text": "Poti é filho de uma mulher indígena que foi violentada por um colonizador português, ele vivia em paz com sua mãe e sempre teve facilidade para fugir de problemas devido ao porte esguio e sua agilidade, que foi o que o salvou quando sua mãe, quem sempre o protegeu, morreu.\nNesse dia, Poti conheceu Gaspar, que o acolheu em sua nova vida.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1850,
+      "y": 380,
+      "width": 510,
+      "height": 200
+    },
+    {
+      "id": "1ad52a73cd4d981e",
+      "type": "file",
+      "file": "Gaspar.jpeg",
+      "x": -2375,
+      "y": 120,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "f75836976f63eb00",
+      "type": "text",
+      "text": "**Gaspar Vaz**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -2115,
+      "y": 120,
+      "width": 250,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "d94084191bf47516",
+      "type": "text",
+      "text": "Gaspar era um homem português, que virou um navegador comercial muito cedo na vida e perdeu grande parte das convenções sociais da vida, ou seja, nunca teve uma mulher ou filhos.\nApós muitas décadas trabalhando com navegações, durante uma de suas paradas no Brasil, encontrou um jovem garoto sozinho, que havia acabado de perder sua mãe, Poti. \nGaspar queria poder resgatar e acolher o garoto, mas sua tripulação não permitiu, o que iniciou uma briga. Gaspar decidiu deixar a tripulação já que se sentia sufocado pela hierarquia e agora gostaria de cuidar do garoto.\nJunto de Poti, ele juntou dinheiro e comprou seu próprio barco, onde navegou e encontrou o resto da tripulação.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2375,
+      "y": 380,
+      "width": 510,
+      "height": 200
+    },
+    {
+      "id": "776e7fb48ea80fd0",
+      "type": "file",
+      "file": "Philippe.jpeg",
+      "x": -1320,
+      "y": 120,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "00c05d834cc9b3f7",
+      "type": "text",
+      "text": "Philippe morava em uma região pobre da França com seus pais e um irmão mais novo, que adoeceu e morreu devido a falta de dinheiro para seus cuidados.\nApós a perda, a mãe dele entrou em depressão profunda e não conseguiu continuar trabalhando, o que afetou ainda mais a condição financeira da família.\nPhilippe, desesperado, começou a sair para roubar tentando ajudar as condições da família, mas não parecia ser o suficiente. Foi como o garoto perdeu seu olho.\nDecepcionado, ele foi ao porto e tentou se afogar, sendo salvo por Gaspar, que acreditou que fosse um acidente. A recepção calorosa fez com que Philippe decidisse continuar navegando com a tripulação, ao menos até ter o suficiente para ajudar seus pais.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1320,
+      "y": 380,
+      "width": 510,
+      "height": 200
+    },
+    {
+      "id": "2288dfe40bc6bd2d",
+      "type": "text",
+      "text": "**Philippe Foucher**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -1060,
+      "y": 120,
+      "width": 250,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "667e1e9a48340cda",
+      "type": "text",
+      "text": "**Pontos de afinidade**\n\nGaspar <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span>\nPoti <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBarbara <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nClarissa <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBento <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1060,
+      "y": 180,
+      "width": 250,
+      "height": 200
+    },
+    {
+      "id": "e7d9ff9d27a3a07d",
+      "type": "text",
+      "text": "**Pontos de afinidade**\n\nPoti <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span>\nPhilippe <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span>\nBarbara <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nClarissa <span class=\"bolinha preenchida\"></span>○○○○\nBento <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2115,
+      "y": 180,
+      "width": 250,
+      "height": 200
+    },
+    {
+      "id": "418efdef81da63e7",
+      "type": "file",
+      "file": "Clarissa.jpeg",
+      "x": -1315,
+      "y": 720,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "5c71c7efd0ef7847",
+      "type": "text",
+      "text": "Criada em uma família extremamente rica, Clarissa foi treinada para ser a esposa perfeita de alguém, e isso gerou grandes dificuldades com limites e seu senso de vontade própria.\nSeus grandes interesses sempre envolveram estudos e, apesar de não investirem muito no ensino de uma mulher, ela pesquisou e aprendeu tudo o que estava a seu alcance durante muitos anos.\nEla sempre foi muito introvertida e solitária, seguindo o roteiro que já haviam planejado para sua vida, levando-a a sua vida atual com um marido violento e duas garotinhas.\nEntretanto, quando sua família se tornou alvo de uma tripulação de piratas, Clarissa foi sequestrada e mantida no barco deles, até que fosse encontrada pelos protagonistas.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1315,
+      "y": 980,
+      "width": 510,
+      "height": 200
+    },
+    {
+      "id": "a06c1fe2d44643c4",
+      "type": "text",
+      "text": "**Clarissa Blyth**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -1055,
+      "y": 720,
+      "width": 250,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "b50111186933d3db",
+      "type": "text",
+      "text": "**Pontos de confiança**\n\nGaspar <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span>\nPoti <span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPhilippe <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span>\nBarbara <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span>\n\n\n**Pontos de afinidade**\n\nGaspar <span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPoti <span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPhilippe <span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBarbara <span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBento <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1055,
+      "y": 780,
+      "width": 250,
+      "height": 200
+    },
+    {
+      "id": "a9c4fb36c44a99fc",
+      "type": "file",
+      "file": "Barbara.jpeg",
+      "x": -1845,
+      "y": 720,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "8150cfef446759d3",
+      "type": "text",
+      "text": "",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1845,
+      "y": 980,
+      "width": 510,
+      "height": 200
+    },
+    {
+      "id": "7d17e5615c9c8533",
+      "type": "text",
+      "text": "**Barbara Calliman**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -1585,
+      "y": 720,
+      "width": 250,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "84c980bbd4df28fd",
+      "type": "text",
+      "text": "**Pontos de afinidade**\n\nGaspar <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPoti <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPhilippe <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nClarissa <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBento <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1585,
+      "y": 780,
+      "width": 250,
+      "height": 200
+    },
+    {
+      "id": "df074e7480af163e",
+      "type": "text",
+      "text": "Evangeline Vane",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -2115,
+      "y": 720,
+      "width": 250,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "ab076c1a8076ec9b",
+      "type": "text",
+      "text": "**Pontos de afinidade**\n\nGaspar <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span>\nPoti <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPhilippe <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBarbara <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nClarissa <span class=\"bolinha preenchida\"></span><span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBento <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2115,
+      "y": 780,
+      "width": 250,
+      "height": 200
+    },
+    {
+      "id": "65805fb89846ed61",
+      "type": "text",
+      "text": "**Habilidade** Toda vez que obedecer uma ordem de seu capitão, realizar essa ação te dá 1d4 a mais na rolagem",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2375,
+      "y": 580,
+      "width": 510,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "5512bdfdfe4185ef",
+      "type": "text",
+      "text": "**Habilidade** Quando um jogador tem menos da metade de seus PV, Poti consegue tomar metade do dano para si. Pode ser usado apenas uma vez por cena",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1850,
+      "y": 580,
+      "width": 510,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "f3c423c286ea5b42",
+      "type": "text",
+      "text": "**Habilidade** Toda vez q ajudar Philippe, ganha um ponto de favor com ele. Cada um desses pontos representa um favor que ele pode fazer por você.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1320,
+      "y": 580,
+      "width": 510,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "f2536896c1bf8ceb",
+      "type": "text",
+      "text": "**Habilidade** Quando sofrer dano de um inimigo, pode gastar 2PD pra ter um aumento de passo no próximo teste contra ele.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1845,
+      "y": 1180,
+      "width": 510,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "4cb4b11b614742bf",
+      "type": "text",
+      "text": "**Habilidade** Você pode gastar 2PE para se lembrar de uma informação útil. Se fizer um teste com ela, recebe um aumento de passo.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1315,
+      "y": 1180,
+      "width": 510,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "f371f476bab0489a",
+      "type": "text",
+      "text": "Evangeline cresceu vivendo feliz com seus pais, eram uma família muito unida. Seus primeiros 15 anos foram muito felizes, mas seu pai começou a voltar para casa machucado e sem muita mercadoria, e evitando falar com ela, o que os afastou.\nDurante um dia qualquer, seus pais saíram para trabalhar e Evangeline decidiu ir atrás para ajudá-los. Chegando lá, foi segurada para assistir seus pais serem assassinados por piratas. Assim que foi liberada, tentou levantar seus pais, sem sucesso.\nComo haviam dois barcos no porto, ela entrou no que tinha a menor tripulação e decorou a imagem de uma cobra estampada no outro. Ela esperou que o navio partisse para o mar e tentou atacar o homem que comandava o barco, mas esqueceu de tirar a espada da capa. O homem notou o desespero da garota e a acolheu em sua tripulação, e ao lado de Gaspar e Poti ela construiu uma nova vida.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2370,
+      "y": 980,
+      "width": 505,
+      "height": 200
+    },
+    {
+      "id": "cf63fed88af5ea73",
+      "type": "text",
+      "text": "**Habilidade** Em qualquer cena, você pode gastar 2PD para encontrar possíveis passagens, saídas ou coisas que valem a pena roubar.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2370,
+      "y": 1180,
+      "width": 505,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "95b649127de15bb8",
+      "type": "file",
+      "file": "Evie.jpeg",
+      "x": -2370,
+      "y": 720,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "64c10dbc832260dc",
+      "type": "text",
+      "text": "PV do Barco: 50/50PV",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "solid",
+      "x": -680,
+      "y": 130,
+      "width": 260,
+      "height": 60,
+      "color": "#f59e72"
+    },
+    {
+      "id": "ec29b5134a3b4344",
+      "type": "text",
+      "text": "50-41: Funcionalidade normal\n40-31: Ainda consegue navegar, mas pode precisar de fiscalizações e consertos\n30-21: Ainda consegue navegar, mas algumas funções podem ser afetadas (1d6)\n20-11: Quase afundando, -1d6 em todo teste e qualquer ataque causa o dobro de dano\n10-1: Situação emergencial, os personagens devem se retirar do barco antes que ele afunde (5 rodadas)\n0: Naufrágio.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left",
+        "border": "invisible",
+        "shape": null
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "invisible",
+      "x": -680,
+      "y": 190,
+      "width": 260,
+      "height": 280,
+      "color": "#89919d"
+    },
+    {
+      "id": "7e914d3e9758dd9d",
+      "type": "text",
+      "text": "**Carga: 18/30**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -382,
+      "y": 130,
+      "width": 680,
+      "height": 60,
+      "color": "#f59e72"
+    },
+    {
+      "id": "4b770868ec1ccef0",
+      "type": "text",
+      "text": "**Suprimentos**\n\n150 provisões (30 dias para 5 pessoas)\n2 cargas de materiais de conserto (4 consertos)\n1 carga equipamento médico (5 usos)\n2 cargas de munição para os canhões (2 confrontos)\n1 carga para armas leves",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -382,
+      "y": 190,
+      "width": 340,
+      "height": 280
+    },
+    {
+      "id": "7d142697e74c1126",
+      "type": "text",
+      "text": "**Armas**\n4 pistolas\n2 mosquetes\n6 facas\n2 machados\n2 espadas\n\n10 munições de pistola (Cada uma dura uma cena)\n3 munições de mosquete",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -42,
+      "y": 190,
+      "width": 340,
+      "height": 280
+    },
+    {
+      "id": "49abefec9cf45e7d",
+      "type": "text",
+      "text": "Andar inferior",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -175,
+      "y": 665,
+      "width": 190,
+      "height": 50
+    },
+    {
+      "id": "ae09deffc3912660",
+      "type": "text",
+      "text": "==🟠**Quarto 2**==\n- Evangeline\n- Philippe",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 121,
+      "y": 690,
+      "width": 184,
+      "height": 120
+    },
+    {
+      "id": "231c1b454dbc4bb7",
+      "type": "text",
+      "text": "==🟠**Área comum/Cozinha**==",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -202,
+      "y": 725,
+      "width": 245,
+      "height": 140
+    },
+    {
+      "id": "20c55db7c48a335f",
+      "type": "text",
+      "text": "==🟠**Quarto 1**==\n- Gaspar",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -189,
+      "y": 915,
+      "width": 218,
+      "height": 140
+    },
+    {
+      "id": "2e7da0d6d5c877ae",
+      "type": "text",
+      "text": "==🟠**Quarto 3**==\n- Barbara\n- Poti",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 121,
+      "y": 865,
+      "width": 184,
+      "height": 120
+    },
+    {
+      "id": "41e25169e44d4bc2",
+      "type": "text",
+      "text": "Estrutura",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -435,
+      "y": 585,
+      "width": 260,
+      "height": 60,
+      "color": "#f59e72"
+    },
+    {
+      "id": "0c611884fd6acaf2",
+      "type": "text",
+      "text": "==🟠**Convés**==",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -680,
+      "y": 725,
+      "width": 300,
+      "height": 160
+    },
+    {
+      "id": "88e7306c234038d3",
+      "type": "text",
+      "text": "**==🟠Cabine==**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -655,
+      "y": 925,
+      "width": 250,
+      "height": 140
+    },
+    {
+      "id": "4399cae48b48b3cc",
+      "type": "text",
+      "text": "Andar base",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -625,
+      "y": 665,
+      "width": 190,
+      "height": 50
+    },
+    {
+      "id": "0f3b759467fbcc9b",
+      "type": "text",
+      "text": "==🟠**Porão/Armazenamento**==",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -335,
+      "y": 1100,
+      "width": 255,
+      "height": 180
+    },
+    {
+      "id": "591abc2787bc5c5d",
+      "type": "file",
+      "file": "Bento.jpeg",
+      "x": -2900,
+      "y": 470,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "b4c19699302dff23",
+      "type": "text",
+      "text": "O Bento é filho de mercadores portuários. Um dia, seus pais viajaram com ele para negociar com um outro mercador, sem saber que o homem estava endividado.\nDurante a visita, um homem veio cobrar sua dívida, então os pais de Bento pediram para ele se esconder, e foi o que ele fez.\nPresentes no lugar errado, os pais de Bento foram assassinados e ele foi encontrado um tempo depois pela tripulação, ainda escondido.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2900,
+      "y": 730,
+      "width": 505,
+      "height": 200
+    },
+    {
+      "id": "9de640e58d12b1cd",
+      "type": "text",
+      "text": "**Habilidade** Uma vez por cena, Bento pode encontrar algo que ninguém mais conseguiu ver, e mostrar para a tripulação.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2900,
+      "y": 930,
+      "width": 505,
+      "height": 100,
+      "color": "#f59e72"
+    },
+    {
+      "id": "204aaa61cd49f15d",
+      "type": "text",
+      "text": "Bento Pereira",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -2640,
+      "y": 470,
+      "width": 245,
+      "height": 60,
+      "color": "#89919d"
+    },
+    {
+      "id": "ff633c47aef33e68",
+      "type": "text",
+      "text": "**Pontos de afinidade**\n\nGaspar <span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPoti <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nEvangeline <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nPhilippe <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nBarbara <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>\nClarissa <span class=\"bolinha preenchida\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span><span class=\"bolinha\"></span>",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2640,
+      "y": 530,
+      "width": 245,
+      "height": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "2224542224ddbe82",
+      "fromNode": "0c611884fd6acaf2",
+      "fromSide": "bottom",
+      "toNode": "88e7306c234038d3",
+      "toSide": "top"
+    },
+    {
+      "id": "fc2c7822b0d82a4f",
+      "fromNode": "231c1b454dbc4bb7",
+      "fromSide": "bottom",
+      "toNode": "20c55db7c48a335f",
+      "toSide": "top"
+    },
+    {
+      "id": "7496e345ae7d0236",
+      "fromNode": "231c1b454dbc4bb7",
+      "fromSide": "right",
+      "toNode": "ae09deffc3912660",
+      "toSide": "left"
+    },
+    {
+      "id": "49e88e01b624ae59",
+      "fromNode": "231c1b454dbc4bb7",
+      "fromSide": "right",
+      "toNode": "2e7da0d6d5c877ae",
+      "toSide": "left"
+    },
+    {
+      "id": "e9dcb96743d22495",
+      "fromNode": "231c1b454dbc4bb7",
+      "fromSide": "left",
+      "toNode": "0f3b759467fbcc9b",
+      "toSide": "top"
+    },
+    {
+      "id": "062905cfc1a95cad",
+      "fromNode": "0c611884fd6acaf2",
+      "fromSide": "right",
+      "toNode": "231c1b454dbc4bb7",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}

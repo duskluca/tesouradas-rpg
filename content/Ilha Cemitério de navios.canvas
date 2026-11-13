@@ -1,0 +1,701 @@
+{
+  "nodes": [
+    {
+      "id": "36a31656512c1dc9",
+      "type": "text",
+      "text": "Áreas",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -840,
+      "y": -360,
+      "width": 120,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "f1d719a2d3b450de",
+      "type": "text",
+      "text": "==🟢**Floresta**==",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1045,
+      "y": -280,
+      "width": 530,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "7c2fb8d49e5a8b17",
+      "type": "text",
+      "text": "**==🔵Litoral==**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": -280,
+      "width": 530,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "e43e349765715de5",
+      "type": "text",
+      "text": "==🟠**Acampamento**==",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -500,
+      "y": -280,
+      "width": 530,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "65949c07344fbf35",
+      "type": "file",
+      "file": "Cemitério de Navios na Maré Baixa.png",
+      "x": -1600,
+      "y": -220,
+      "width": 529,
+      "height": 298
+    },
+    {
+      "id": "5c15610e86e61f2b",
+      "type": "file",
+      "file": "Aldeia Rústica na Floresta Enevoada.png",
+      "x": -500,
+      "y": -220,
+      "width": 529,
+      "height": 298
+    },
+    {
+      "id": "f2cfd31bab561a5f",
+      "type": "file",
+      "file": "Floresta Encantada em Névoa Ciano.png",
+      "x": -1045,
+      "y": -220,
+      "width": 529,
+      "height": 298
+    },
+    {
+      "id": "17d8c468dbf5521c",
+      "type": "text",
+      "text": "Uma praia cheia de restos de navios naufragados, todos emanando essa aura azulada. O lugar realmente se passa por um cemitério, com muitas carcaças de navio num cenário fantasmagórico.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": 78,
+      "width": 530,
+      "height": 122
+    },
+    {
+      "id": "8882a63d1789bd15",
+      "type": "text",
+      "text": "Uma floresta não muito densa, coberta por uma vegetação cinzenta e enfraquecida, com uma aparência meio morta. Apesar do ambiente aberto parecer relaxante, o frio nesse lugar é intolerável.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1045,
+      "y": 78,
+      "width": 530,
+      "height": 122
+    },
+    {
+      "id": "97b061ef21ebc2e8",
+      "type": "text",
+      "text": "Em meio a floresta, um pequeno grupo de pessoas se instalou. Sem esperanças, acreditaram que o lugar ditava seu destino, os moradores acreditam estarem mortos e realmente serem fantasmas.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -500,
+      "y": 78,
+      "width": 530,
+      "height": 122
+    },
+    {
+      "id": "02b81f419b532866",
+      "type": "text",
+      "text": "###### POIs\n- O barquinho dos dois homens\n- Os restos dos navios\n- Um banco de areia posicionado de forma estranha",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": 200,
+      "width": 529,
+      "height": 200,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "d5ebeea53954e2e9",
+      "type": "text",
+      "text": "###### POIs\n- A vegetação e fauna\n- Algumas lápides espalhadas\n- Estudos do bruxo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1044,
+      "y": 200,
+      "width": 529,
+      "height": 200,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "f720c7c0c5979e5c",
+      "type": "text",
+      "text": "###### POIs\n- Casas dos NPCs\n- Casa do bruxo\n- Um velho poço",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -499,
+      "y": 200,
+      "width": 529,
+      "height": 200,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "91e0c1efeb32c0ed",
+      "type": "text",
+      "text": "Quest",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -839,
+      "y": 440,
+      "width": 120,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "a7e8ce798f190166",
+      "type": "text",
+      "text": "Elias Bell",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 360,
+      "y": -280,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "f7ff01e8be607ace",
+      "type": "file",
+      "file": "Retrato sereno de ancião com turbante 1.png",
+      "x": 360,
+      "y": -230,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "4c9164c090264612",
+      "type": "text",
+      "text": "72 anos - Transformação completa\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 360,
+      "y": -10,
+      "width": 220,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "b5ca91e1e2671fe4",
+      "type": "text",
+      "text": "Um homem extremamente amoroso e simpático, mas acredita que está morto. Fala de forma muito lenta.\n\nElias chegou na ilha há 31 anos, ele era um navegador mercante cujo navio naufragou perto da ilha. Seus companheiros saíram em busca de alguma solução, mas Elias não conseguiu vê-los novamente. Com o tempo, Elias aceitou a morte e abraçou a condição completamente.\n\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 360,
+      "y": 50,
+      "width": 220,
+      "height": 260
+    },
+    {
+      "id": "f28cc19646410d28",
+      "type": "text",
+      "text": "Tomás (Tom) Reed",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 610,
+      "y": -280,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "c85ac1e9bd071afe",
+      "type": "file",
+      "file": "Retrato do marinheiro em aquarela.png",
+      "x": 610,
+      "y": -230,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "82af9a1083fa17c9",
+      "type": "text",
+      "text": "21 anos - Fase Inicial",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 610,
+      "y": -10,
+      "width": 220,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "4c01e4f0e89c3a49",
+      "type": "text",
+      "text": "Um jovem extremamente animado, muito simpático e energético. Fica extremamente assustado quando \"lembra\" que está morto.\n\nTom era um marinheiro novato que estava passando pela ilha quando o barco naufragou. Os outros tripulantes deixaram a ilha enquanto ele estava conhecendo os moradores. Tom já está na ilha há 7 meses, mas ainda não se acostumou com a transformação\n\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 610,
+      "y": 50,
+      "width": 220,
+      "height": 260
+    },
+    {
+      "id": "45d5066773c79573",
+      "type": "text",
+      "text": "Amélia Duarte",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 860,
+      "y": -280,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "f77598213735ae15",
+      "type": "file",
+      "file": "Retrato em aquarela com brilho ciano.png",
+      "x": 860,
+      "y": -230,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "b48a6f5ccecc18e0",
+      "type": "text",
+      "text": "NPCs - Insepultos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 590,
+      "y": -360,
+      "width": 260,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "788b7828f1cf0afd",
+      "type": "text",
+      "text": "39 anos - Transformação lenta\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 860,
+      "y": -10,
+      "width": 220,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "843c2b365a686271",
+      "type": "text",
+      "text": "Uma mulher que não aceita estar morta, ela ainda planta, colhe, segue sua rotina. É um pouco amarga, mas não é uma pessoa uim.\n\nHá 4 anos, Amélia deixou Portugal com seu marido e filho em busca de uma nova vida. Entretanto, o barco se acidentou e ela não encontrou sua família e não tem memórias do ocorrido.\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 860,
+      "y": 50,
+      "width": 220,
+      "height": 260
+    },
+    {
+      "id": "e970a822997cec7d",
+      "type": "text",
+      "text": "Objetivo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1043,
+      "y": 516,
+      "width": 529,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "c9afab5cd05809d2",
+      "type": "text",
+      "text": "O objetivo da missão é ajudar esses dois homens a descobrir o que aconteceu durante o tempo perdido de suas memórias.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1043,
+      "y": 566,
+      "width": 529,
+      "height": 94
+    },
+    {
+      "id": "2c099affdd3bbdfb",
+      "type": "text",
+      "text": "O ritual",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -480,
+      "y": 516,
+      "width": 529,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "cf2f7e444fd74d2f",
+      "type": "text",
+      "text": "Essa ilha fica no meio de uma rota muito utilizada, então era comum que ocorressem acidentes ali, devido a constante movimentação em seus arredores. Com o tempo, os naufrágios ocorridos e o medo dos sobreviventes acabaram gerando uma fragilidade na membrana, que começou a roubar esses momentos das pessoas, deixando-as assombradas.\n\nEssa dupla de marinheiros que eles encontram estava em uma grande embarcação, que estranhou a ilha e decidiu mandar 2 homens para averiguar. Esses dois NPCs pegaram um barquinho e foram em direção a ilha, mas no caminho o Fragmento passou por lá, buscando por Edmund, e seu teleporte de energia causou uma comoção natural no ambiente, com ondas fortes e grandes movimentações de vento, que causaram o acidente e deixaram alguns sinais na ilha.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": 566,
+      "width": 529,
+      "height": 434
+    },
+    {
+      "id": "7d2bb7341595ca86",
+      "type": "text",
+      "text": "Por trás do mistério",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": 516,
+      "width": 529,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "2d29afafdfd3e5aa",
+      "type": "text",
+      "text": "Para realizar o ritual, a pessoa assombrada deve se deitar em um lugar propício para o ritual, que nesse caso é uma sala na própria casa do bruxo, já marcada com o símbolo de proteção, vendada, e dormir.\nAo ser colocada sob essas circunstâncias, o corpo desaparece e a pessoa volta a viver aquela memória, definindo o rumo de seu futuro.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -480,
+      "y": 566,
+      "width": 529,
+      "height": 217
+    },
+    {
+      "id": "f0454be6357a2436",
+      "type": "text",
+      "text": "O momento perdido",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1043,
+      "y": 675,
+      "width": 529,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "6287b08dda6b9a0f",
+      "type": "text",
+      "text": "Os dois homens saíram em seu pequeno barco em direção a ilha para investigar suas particularidades que geraram curiosidade na tripulação, porém, enquanto remavam até a praia, viram uma manifestação de energia se formando.\nO Fragmento surgiu na frente deles, parte a parte, como se suas partículas de Energia estivessem pouco a pouco se juntando em um mesmo ser. Conforme o corpo da criatura se manifestava, o ambiente sofria alterações pelo transporte da Energia. As ondas começam a ficar violentas, manipulando o barco como se fosse um brinquedo e, como se fosse um golpe final, as fortíssimas bufadas de vento terminaram de virar o barco, jogando-os em direção a praia.\nEntretanto, o Fragmento sequer pareceu prestar atenção ao que estava acontecendo, parecia procurar por algo, olhando em volta, e assim que não encontrou o que buscava, seguiu em direção à próxima ilha, deixando apenas as consequências de sua formação para trás.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1043,
+      "y": 725,
+      "width": 529,
+      "height": 275
+    },
+    {
+      "id": "c3fc997f5dbc22fb",
+      "type": "text",
+      "text": "O bruxo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -480,
+      "y": 800,
+      "width": 529,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "96f31f9d7a831fcb",
+      "type": "text",
+      "text": "Baltasar Valente era um homem que desembarcou nessa ilha espontaneamente, décadas atrás. Era um grande explorador e pesquisador e ficou intrigado pela condição inexplicável da ilha, então decidiu se estabelecer lá e descobrir tudo o que pudesse sobre ela.\nDurante muitos e muitos anos, ele observou o comportamento dos Insepultos, dos náufragos da ilha e da região, formando teorias e levantando experimentos. Muitas das pessoas que naufragavam se ofereciam para participar desses testes, buscando sair daquela ilha a todo custo.\nEventualmente, Baltasar conseguiu encontrar um ritual que parecia resolver o problema da assombração, mas que gerava o risco da pessoa não voltar mais, pois havia morrido durante o momento perdido.\nAssistir essas pessoas desesperadas encontrarem seu destino de forma tão cruel o fazia sentir horrível com relação a sua descoberta, e não demorou muito para que toda essa pressão interna o fizesse pegar o primeiro barco para longe dali, deixando todo seu estudo para trás.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -480,
+      "y": 850,
+      "width": 529,
+      "height": 150
+    },
+    {
+      "id": "4dad5602eba08649",
+      "type": "text",
+      "text": "Ibrahim Al-Hadi",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 360,
+      "y": 323,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "72f72d2e7944db66",
+      "type": "text",
+      "text": "Mateo Alvaréz",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 620,
+      "y": 323,
+      "width": 220,
+      "height": 50
+    },
+    {
+      "id": "64846731d0ce3d8d",
+      "type": "file",
+      "file": "Retrato Aquarelado de Homem Idoso Sorridente.png",
+      "x": 360,
+      "y": 373,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "7af0df993c7e6f31",
+      "type": "file",
+      "file": "Retrato Rústico com Brilho Turquesa.png",
+      "x": 620,
+      "y": 373,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "4f099cc3fb108f1e",
+      "type": "text",
+      "text": "46 anos - Avançado",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 360,
+      "y": 593,
+      "width": 220,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "3deb9b3538951fe9",
+      "type": "text",
+      "text": "Um homem positivo e divertido, que acha a situação dos Insepultos fascinante. Muito querido e bem energético, apesar da movimentação dificultada pela condição.\n\nEle se envolveu em um naufrágio passando pela rota em um barco comercial, e simplesmente aceitou que estava morto assim que chegou, iniciando sua nova \"vida\".\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 360,
+      "y": 653,
+      "width": 220,
+      "height": 260
+    },
+    {
+      "id": "05a050c8da2c9d32",
+      "type": "text",
+      "text": "36 anos - Humano",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 620,
+      "y": 593,
+      "width": 220,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "000559df7f5969f2",
+      "type": "text",
+      "text": "Um homem meio sério que não acredita no papo dos Insepultos de que morreu e quer muito uma forma de ir embora. Meio homem nojentão mesmo, bem mulherengo.\n\nEle veio de um navio europeu que sofreu danos de uma tempestade, ele caiu no cemitério e o resto da embarcação teve um destino diferente.\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 620,
+      "y": 653,
+      "width": 220,
+      "height": 260
+    },
+    {
+      "id": "7474cf3e81f585de",
+      "type": "text",
+      "text": "Os Insepultos são pessoas que naufragaram na ilha e, após permanecerem nela por tempo o suficiente, passaram a acreditar que estavam mortas. Essa crença é acompanhada por mudanças graduais no corpo: A pele se torna acinzentada e fria, o corpo emagrece e a necessidade de comida e água diminui.\nEles continuam conscientes e capazes de viver normalmente, mas pouco a pouco abandonam os hábitos de quem ainda está vivo. O paranormal alimenta a crença e preenche as lacunas que as necessidades humanas abandonadas preenchiam, tomando essas pessoas cada vez mais.\n\nNão existem nascimentos entre os Insepultos, e a comunidade é formada apenas pelos naufrágios na ilha, então sua população pode crescer e diminuir conforme a frequência de navios surgindo na ilha.\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 860,
+      "y": 323,
+      "width": 220,
+      "height": 590,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "fecb73fcd98994be",
+      "type": "text",
+      "text": "Puzzle da chave",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": 1010,
+      "width": 820,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "c307ba9beef4973e",
+      "type": "text",
+      "text": "POIs",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -771,
+      "y": 1010,
+      "width": 820,
+      "height": 50,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "6ae5936a9a8d72b0",
+      "type": "text",
+      "text": "Os documentos destacados que podem ser encontrados na casa do bruxo são relatórios detalhados sobre alguns dos experimentos do bruxo e demonstram o primeiro teste humano, o primeiro teste que deu certo, e o último teste que Baltasar fez.\n\nCada um deles é representado por um símbolo, que devem ser colocados em ordem nos discos da caixinha da mesa dele, para desbloquear a chave.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": 1060,
+      "width": 820,
+      "height": 434
+    },
+    {
+      "id": "07769fcff3b1faf6",
+      "type": "text",
+      "text": "###### ==🔵Litoral==\n**O Barco dos dois marinheiros:**\n- Interação com NPC (Contam a história deles)\n- Percepção (DT8) - O barco está quebrado de forma não natural, como se tivesse sofrido diferentes efeitos ao mesmo tempo.\n\n**O resto dos navios:**\n- Percepção (DT6) - Todos os barcos emanam essa aura azulada, mas não parecem ter sofrido o mesmo efeito que o barquinho dos marinheiros.\n\n**O banco de areia:**\n- Sobrevivência (DT7) - Tem alguns bancos de areia muito concentrados na praia, de forma não natural. Parecem ter sido gerados por alguma intervenção.\n\n###### ==🟢Floresta==\n**A vegetação e fauna:**\n- Percepção (DT7) - A natureza aqui tem uma aparência morta, com cores acinzentadas e folhas secas, mas parece funcionar da mesma forma que uma natureza normal. Não tem animais aqui.\n- Bruxaria (DT10) - Esse ambiente parece estar se adaptando a condições paranormais impostas sobre ele.\n\n**Os túmulos espalhados pela floresta:**\n- Percepção (DT6) - Esses túmulos parecem variar muito em tempo, alguns parecem muito antigos enquanto outros são extremamente recentes.\n- Inspecionar (DT7) - As escrituras das lápides sempre utilizam frases de boas vindas, ao invés de condolências.\n\n**Percepção DT8 - Estudos do bruxo:**\n- Marcas nas árvores, como se fossem desenhos (Bruxaria DT6 - Parecem ser tentativas de acertar um ritual).\n- Materiais que deram dor, como agulhas ou placas de ferro que provavelmente foram esquentadas.\n\n###### ==🟠**Acampamento**==\n**Casa dos NPCs:**\n- Percepção (DT10) - Não parecem haver reservas de comida em lugar algum.\n- É possível conversar com os NPCs ao lado.\n\n**Casa do bruxo**:\n- Percepção (DT6) - Existem diversos relatórios espalhados pela casa (Caso peguem os documentos, conseguem notar que 3 deles não parecem estar tão velhos quanto os outros)\n- Há uma porta trancada na casa. (Bruxaria DT7 - Há um campo de proteção que impede invasão forçada)\n- Caixa trancada com um enigma de discos.\n\n**Um velho poço:**\n- Percepção (DT6) - A água num balde apoiado ali parece estar parada há muito tempo, tem um cheiro horrível e concentração de sedimentos no fundo.\n- Percepção (DT7) - O corpo do poço tem raízes crescendo e olhando bem fundo, tem até algas crescendo, não parece ser utilizado.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -771,
+      "y": 1060,
+      "width": 820,
+      "height": 434
+    },
+    {
+      "id": "4bc4a48b70c76344",
+      "type": "text",
+      "text": "###### ==🔵Litoral==\n**O Barco dos dois marinheiros:**\n- Interação com NPC (Contam a história deles)\n- Percepção (DT8) - O barco está quebrado de forma não natural, como se tivesse sofrido diferentes efeitos ao mesmo tempo.\n\n**O resto dos navios:**\n- Percepção (DT6) - Todos os barcos emanam essa aura azulada, mas não parecem ter sofrido o mesmo efeito que o barquinho dos marinheiros.\n\n**O banco de areia:**\n- Sobrevivência (DT7) - Tem alguns bancos de areia muito concentrados na praia, de forma não natural. Parecem ter sido gerados por alguma intervenção.\n\n###### ==🟢Floresta==\n**A vegetação e fauna:**\n- Percepção (DT7) - A natureza aqui tem uma aparência morta, com cores acinzentadas e folhas secas, mas parece funcionar da mesma forma que uma natureza normal. Não tem animais aqui.\n- Bruxaria (DT10) - Esse ambiente parece estar se adaptando a condições paranormais impostas sobre ele.\n\n**Os túmulos espalhados pela floresta:**\n- Percepção (DT6) - Esses túmulos parecem variar muito em tempo, alguns parecem muito antigos enquanto outros são extremamente recentes.\n- Inspecionar (DT7) - As escrituras das lápides sempre utilizam frases de boas vindas, ao invés de condolências.\n\n**Percepção DT8 - Estudos do bruxo:**\n- Marcas nas árvores, como se fossem desenhos (Bruxaria DT6 - Parecem ser tentativas de acertar um ritual).\n- Materiais que deram dor, como agulhas ou placas de ferro que provavelmente foram esquentadas.\n\n###### ==🟠**Acampamento**==\n**Casa dos NPCs:**\n- Percepção (DT10) - Não parecem haver reservas de comida em lugar algum.\n- É possível conversar com os NPCs ao lado.\n\n**Casa do bruxo**:\n- Percepção (DT6) - Existem diversos relatórios espalhados pela casa (Caso peguem os documentos, conseguem notar que 3 deles não parecem estar tão velhos quanto os outros)\n- Há uma porta trancada na casa. (Bruxaria DT7 - Há um campo de proteção que impede invasão forçada)\n- Caixa trancada com um enigma de discos.\n- Percepção (DT8) - Ainda tem alimentos, roupas e livros deixados para trás, mas nada pessoal parece ter ficado.\n\n**Um velho poço:**\n- Percepção (DT6) - A água num balde apoiado ali parece estar parada há muito tempo, tem um cheiro horrível e concentração de sedimentos no fundo.\n- Percepção (DT7) - O corpo do poço tem raízes crescendo e olhando bem fundo, tem até algas crescendo, não parece ser utilizado.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -780,
+      "y": 1060,
+      "width": 820,
+      "height": 434
+    }
+  ],
+  "edges": []
+}

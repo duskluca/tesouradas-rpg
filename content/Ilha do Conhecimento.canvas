@@ -1,0 +1,546 @@
+{
+  "nodes": [
+    {
+      "id": "1d91c7eb757879cf",
+      "type": "text",
+      "text": "Contexto da ilha",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -100,
+      "y": -30,
+      "width": 200,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "598cc3e642421be9",
+      "type": "text",
+      "text": "Muitos anos atrás, a ilha era tomada pelas trevas. Nunca se sabia quando alguém poderia não voltar mais, e as pessoas viviam sentindo medo, a todo tempo.\nEm alguma noite como outra qualquer, um viajante chegou na ilha, sem qualquer temor, e o povo ficou intrigado já que essa paz não era comum para eles.\nApós ser recebido calorosamente e descobrir sobre os problemas que a ilha enfrentava, o homem os apresentou uma chama, uma pequena demonstração dos extensos poderes do conhecimento, que mantém as sombras e criaturas distantes.\nO homem permaneceu ali pelo resto da sua vida. Em uma velha caverna, montou aquilo que viria a chamar de casa, mas ninguém além dele jamais entrou lá, até os dias de hoje.\nDesde então, essa comunidade adora e cultua o conhecimento como seu maior bem.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -420,
+      "y": 60,
+      "width": 405,
+      "height": 440
+    },
+    {
+      "id": "3f03e08abb940d2e",
+      "type": "text",
+      "text": "Eles são extremamente receptivos com visitantes, muito calorosos.\nEles tem um \"mestre\", um homem muito velho que é responsável por manter o equilíbrio na ilha, controlando aquilo que deve ou não ser feito, visando a segurança.\nEles têm o costume de fazer perguntas muito específicas para os visitantes, o que pode parecer rude ou invasivo, mas é parte da cultura deles.\nQuando alguém morre na ilha, existe uma tradição em que cada pessoa no funeral escreve aquilo que gostava de saber sobre aquela pessoa.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 0,
+      "y": 120,
+      "width": 405,
+      "height": 380
+    },
+    {
+      "id": "e17e82e6a4b089f0",
+      "type": "text",
+      "text": "Comportamento da população",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 3,
+      "y": 60,
+      "width": 402,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "11315f76242e8054",
+      "type": "text",
+      "text": "Side Quest",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 980,
+      "y": -20,
+      "width": 200,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "3467a1ee7da4d3e8",
+      "type": "text",
+      "text": "Por trás do mistério",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1080,
+      "y": 60,
+      "width": 440,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "9511e7c71abfbb99",
+      "type": "text",
+      "text": "Com a inatividade na base da chama, o efeito foi enfraquecendo ao passar dos anos, e agora alguma ameaça quer se aproximar e está contribuindo para a chama apagar rapidamente.\nDentro da caverna, tem uma \"base\", como uma fogueira, que já tem os elementos necessários para tornar a chama mágica, mas é necessário seguir um ritual para acendê-la, e ele está na sala final da caverna.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1080,
+      "y": 120,
+      "width": 440,
+      "height": 260
+    },
+    {
+      "id": "860f4728440ff966",
+      "type": "text",
+      "text": "Encontrar dentro da caverna do ocultista o que mantém a chama de proteção acesa e fortificá-la novamente.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 520,
+      "y": 120,
+      "width": 560,
+      "height": 80
+    },
+    {
+      "id": "a7c5a65f0680c48d",
+      "type": "text",
+      "text": "Objetivo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 520,
+      "y": 60,
+      "width": 560,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "9d6b06c4870419e1",
+      "type": "text",
+      "text": "Itens acháveis",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 520,
+      "y": 200,
+      "width": 560,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "1660969fefcd42d4",
+      "type": "file",
+      "file": "d247b2e299f6e9e6b39412d9012db12f-removebg-preview.png",
+      "x": 520,
+      "y": 260,
+      "width": 220,
+      "height": 213
+    },
+    {
+      "id": "b312f92c2d59179d",
+      "type": "file",
+      "file": "Ouvir_Sussurros.webp",
+      "x": 520,
+      "y": 473,
+      "width": 220,
+      "height": 220
+    },
+    {
+      "id": "5e273e4a245f7945",
+      "type": "text",
+      "text": "**Gravado em uma Escápula, tem o ritual:**\n\n**==🟡Compreensão Paranormal==**\nSe tocar um objeto contendo informação, você entende as palavras mesmo que não conheça seu idioma, contanto que se trate de um idioma humano (não funciona com símbolos ou sigilos paranormais).\nSe tocar uma pessoa, pode se comunicar com ela como se falassem um idioma em comum. Se tocar um ser não inteligente, como um animal, pode perceber seus sentimentos básicos, como medo ou felicidade. Um alvo involuntário tem direito a um teste de Vontade.\n\n\n\n**Gravado em um pedaço de espelho quebrado:**\n\n==🟡**Ouvir os sussurros**==\nAo usar este ritual, faça uma pergunta sobre um evento que você está prestes\na fazer (na mesma cena) que possa ser respondida com “sim” ou “não”. O mestre rola 1d6 em segredo; com um resultado de 2 a 6, o ritual funciona e você recebe sua resposta, que pode ser “sim”, “não” ou “sim e não”.\nCom um resultado 1, o ritual falha e oferece o resultado “não”. Não há como saber se esse resultado foi dado porque o ritual falhou ou não. Lançar este ritual múltiplas vezes sobre o mesmo assunto gera sempre o primeiro resultado.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 740,
+      "y": 260,
+      "width": 340,
+      "height": 433
+    },
+    {
+      "id": "56678504da62334f",
+      "type": "text",
+      "text": "**==🟡Ideias de perguntas==**\n\n- O que você sabe que não deveria saber?\n- Que verdade você prefere não descobrir?\n- Qual mentira você conta para si mesmo?\n- Em quem você menos confia?\n- Quem você não quer que descubra a verdade sobre você?\n- Qual lembrança sua você gostaria de esquecer?\n- O que você sacrificaria para descobrir a verdade?\n- Se pudesse descobrir algo sobre seu futuro, o que escolheria?\n- O que você veio procurar?\n- Você tem certeza?\n- Você pode provar que está acordado?\n- Qual foi a pior coisa que você já fez?\n- O que você mais teme perder?\n- Do que você tem medo?\n- Qual deles você salvaria primeiro?\n- O que você gostaria que os outros pensassem de você?\n- Qual característica sua você mais odeia?\n- Você merece o que tem?\n- Quem você tem medo de decepcionar?\n- Quem você ama?\n- Quem você não consegue perdoar?\n- O que você faria diferente?\n- Qual foi a pior coisa que você fez por amor?\n- Qual segredo você não contaria pra ninguém?",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1640,
+      "y": 60,
+      "width": 600,
+      "height": 898,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "64af10decf2fbd1a",
+      "type": "text",
+      "text": "Oren Vahl",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -420,
+      "y": 668,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "6007fac99b39adfc",
+      "type": "text",
+      "text": "###### ==🟡Mestre==\n\nO homem responsável pelo equilíbrio.\nOren é um homem calmo, mas responsável. É extremamente respeitado na ilha e tem acesso a tudo.\nReceptivo, mas também cuidadoso.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -420,
+      "y": 960,
+      "width": 230,
+      "height": 228
+    },
+    {
+      "id": "906bc2b1aba34133",
+      "type": "text",
+      "text": "NPCs",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -405,
+      "y": 588,
+      "width": 200,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "72a6ae5a0aec187d",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-12 at 20.01.16.jpeg",
+      "x": -420,
+      "y": 718,
+      "width": 230,
+      "height": 242
+    },
+    {
+      "id": "7ceb752edcb96f02",
+      "type": "text",
+      "text": "==🟡**Entrada**==\n\nA entrada é uma grande abertura em uma formação rochosa, uma entrada de caverna que funciona como um grande salão com um símbolo cravado no chão.\n\nNesse lugar, os personagens podem transcender, independentemente ou com algum ritual.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 900,
+      "y": 880,
+      "width": 415,
+      "height": 260
+    },
+    {
+      "id": "a49ff0f07ee08ff3",
+      "type": "text",
+      "text": "**Transcendendo** Para transcender, um jogador deve se concentrar no símbolo para entrar em contato com o outro lado.\n\nO jogador vai tem, durante esse estado, acesso a todo o conhecimento do outro lado e recebe uma pergunta. Ao respondê-la honestamente, saem desse estado com o ritual encontrado.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 900,
+      "y": 1140,
+      "width": 415,
+      "height": 260,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "75cc0d0fb2fac18f",
+      "type": "text",
+      "text": "Mapa da Caverna",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1010,
+      "y": 800,
+      "width": 200,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "7fcf5210ebc9179c",
+      "type": "text",
+      "text": "O Inquiridor",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1080,
+      "y": 380,
+      "width": 440,
+      "height": 60,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "5756730e027d7ef8",
+      "type": "text",
+      "text": "Durante todo o caminho na caverna, os jogadores encontram pequenos olhos nas paredes da caverna, aumentando em quantidade e tamanho cada vez mais. As perguntas são lançadas contra eles de tempos em tempo, em qualquer brecha de silêncio.\n\nQuando os jogadores responderem a pergunta de forma insatisfatória ou se recusarem a responder, o Inquiridor aparece em sua forma física e inicia o combate agarrando a pessoa.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1080,
+      "y": 440,
+      "width": 440,
+      "height": 253
+    },
+    {
+      "id": "66fc94feeb710e85",
+      "type": "text",
+      "text": "==🟡**Gruta de rituais**==\n\nUma sala diferente, com diversos símbolos espalhados pelas paredes, velas, pergaminhos, orgãos, cinzas... É o lugar mais macabro da caverna.\n\nEsse lugar era utilizado para estudar e realizar rituais, e ainda está surpreendentemente bem preservado.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 640,
+      "y": 2160,
+      "width": 420,
+      "height": 260
+    },
+    {
+      "id": "1684690e6f8aeb61",
+      "type": "text",
+      "text": "==🟡**A Chama**==\n\nNessa sala, tem uma reserva de fogo no meio, com pequenas faíscas saindo, sem força suficiente para se reacender.\n\nNos entornos da sala, existem imagens nas paredes ensinando a fazer o ritual que acende a chama novamente, e trabalhar nele possibilita que transcendam.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1150,
+      "y": 2160,
+      "width": 410,
+      "height": 260
+    },
+    {
+      "id": "60a4c2db57060461",
+      "type": "text",
+      "text": "**Enigma da sala**\n\nEles tem quatro símbolos de ritual no chão, cada um com um dos símbolos que aprenderam, e eles tem que colocar o componente ritualístico certo em cada ritual. O componentes são:\n\n- Um órgão humano (Sangue)\n- Um pote de cinzas (Morte)\n- Fósforos - O ritual pega fogo no contato (Energia)\n- Uma pena de escrever (Conhecimento)\n\nO elemento de medo está cravado na porta.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 640,
+      "y": 2420,
+      "width": 420,
+      "height": 260,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "4a2385f7e425d0db",
+      "type": "text",
+      "text": "**O Enigma do Ritual**\n\nPara realizar o ritual da chama, é necessário desenhar o círculo corretamente e passar em um teste de bruxaria DT5.\n\nAssim que conseguirem reacender a chama, sentem uma euforia, como se tivessem sucedido em algo, e recuperam 1d6PD. Agora, estão prontos para transcender.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1150,
+      "y": 2420,
+      "width": 410,
+      "height": 260,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "d7eb717f810ffa39",
+      "type": "text",
+      "text": "==🟡**Sala de Estudos**==\n\nEssa sala tem diversas prateleiras escavadas nas paredes, mapas, instrumentos de pesquisa, anotações, etc.\n\n~={yellow}Percepção DT7 - Encontra o ritual de Compreensão Paranormal marcado na escápula, em meio a alguns ossos pendurados.=~",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 640,
+      "y": 1520,
+      "width": 420,
+      "height": 260
+    },
+    {
+      "id": "4195b37f76439f19",
+      "type": "text",
+      "text": "==🟡**Câmara dos espelhos**==\n\nUma sala envolta em espelhos em sua maioria, eram utilizados para reflexão e para execução de alguns testes e rituais específicos, e um espelho sozinho no meio da sala.\n\n~={yellow}Quebrar o espelho principal - Encontra o ritual de Ouvir os Sussurros na parte de trás do vidro.=~",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1150,
+      "y": 1520,
+      "width": 410,
+      "height": 260
+    },
+    {
+      "id": "cebb4def972e6afe",
+      "type": "text",
+      "text": "**Enigma da sala**\n\nDentre os livros nas prateleiras, existem 5 que destoam. Todos os 5 não tem autor ou nome, apenas um símbolo em cada um (Os símbolos dos 5 Elementos do Outro Lado). A parte de dentro desses livros é escrita em uma linguagem paranormal, quanto mais o jogador lê, mais ele entende, e a cada mais que ele entende, mais sua mente se perde.\n\nPara abrir a porta, os jogadores devem encaixar o livro na sua descrição certa. As marcações são:\n\n1. Tempo. Espiral. Repetição. Decomposição. Fim. (Morte)\n2. Caos. Mudança. Imprevisibilidade. Transformação. Calor. (Energia)\n3. Sentimento. Dor. Obsessão. Paixão. Fome. (Sangue)\n4. Desconhecido. Paranormal. Inexplicável. Infinito. Terror. (Medo)\n5. Consciência. Descobrir. Aprender. Decifrar. Registrar. (Conhecimento)\n\nSempre que acertam um dos Elementos, têm a sensação de que já conhecem o nome dele.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 640,
+      "y": 1780,
+      "width": 420,
+      "height": 260,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "cdbc1b56616c641e",
+      "type": "text",
+      "text": "**Enigma da sala**\n\nEles só tem que descobrir que o símbolo está dentro do espelho, através do reflexo deles. Com percepção DT7, o jogador percebe que um único espelho distorce a imagem e, quando se aproxima, consegue ouvir alguns sussurros vindo de dentro dele.\n\nQuando quebrarem o espelho, conseguem o ritual e liberam a próxima sala.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1150,
+      "y": 1780,
+      "width": 410,
+      "height": 260,
+      "color": "#d4c75b"
+    },
+    {
+      "id": "5a0a1c1a50aae758",
+      "type": "text",
+      "text": "Iria Veyl",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -160,
+      "y": 668,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "040b8196dbd1d9c8",
+      "type": "text",
+      "text": "###### ==🟡Guardiã==\n\nIria é responsável pela proteção da chama e foi a primeira a notar os sinais de que havia algo errado.\nPode ser um pouco dura, mas no fundo ela gosta das pessoas.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -160,
+      "y": 960,
+      "width": 230,
+      "height": 228
+    },
+    {
+      "id": "fac626b0c9232059",
+      "type": "text",
+      "text": "Cael Aren",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 100,
+      "y": 668,
+      "width": 230,
+      "height": 50
+    },
+    {
+      "id": "e66b7f482c37a500",
+      "type": "text",
+      "text": "Cael é um jovem que tem tentado aprender ocultismo, mas está tendo muitas dificuldades.\nEle é meio desajeitado e costuma se estressar com seus erros, mas ele é um querido.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 100,
+      "y": 960,
+      "width": 230,
+      "height": 228
+    },
+    {
+      "id": "6edeb88c06be8afa",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-13 at 04.40.57.jpeg",
+      "x": -160,
+      "y": 718,
+      "width": 230,
+      "height": 242
+    },
+    {
+      "id": "b25711654cd1a302",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-13 at 04.40.57 (1).jpeg",
+      "x": 100,
+      "y": 718,
+      "width": 230,
+      "height": 242
+    }
+  ],
+  "edges": [
+    {
+      "id": "f4c2f4950e73bf3f",
+      "fromNode": "a49ff0f07ee08ff3",
+      "fromSide": "bottom",
+      "toNode": "d7eb717f810ffa39",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "7aa193a528fd7adf",
+      "fromNode": "d7eb717f810ffa39",
+      "fromSide": "right",
+      "toNode": "4195b37f76439f19",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "342768b40d3e18f9",
+      "fromNode": "cdbc1b56616c641e",
+      "fromSide": "bottom",
+      "toNode": "66fc94feeb710e85",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "92ca5756609661c9",
+      "fromNode": "66fc94feeb710e85",
+      "fromSide": "right",
+      "toNode": "1684690e6f8aeb61",
+      "toSide": "left",
+      "color": "3"
+    }
+  ]
+}

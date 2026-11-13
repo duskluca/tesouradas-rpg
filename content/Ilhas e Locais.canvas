@@ -1,0 +1,86 @@
+{
+  "nodes": [
+    {
+      "id": "98b1fbef4ea22c93",
+      "type": "text",
+      "text": "Cemitério de Navios",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "invisible",
+      "x": -226,
+      "y": 473,
+      "width": 440,
+      "height": 67,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "ff5765d395f9fb16",
+      "type": "file",
+      "file": "Ilha1.png",
+      "x": -226,
+      "y": 180,
+      "width": 440,
+      "height": 293
+    },
+    {
+      "id": "2c31fe63de1b8901",
+      "type": "text",
+      "text": "Ilha do Conhecimento",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "invisible",
+      "x": -1200,
+      "y": -200,
+      "width": 440,
+      "height": 67,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "9dc0b0902b780117",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-13 at 04.57.25 1.jpeg",
+      "x": -1200,
+      "y": -493,
+      "width": 440,
+      "height": 293
+    },
+    {
+      "id": "c3f3ded5da69ba28",
+      "type": "text",
+      "text": "Ilha das Marés",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "invisible",
+      "x": 560,
+      "y": -53,
+      "width": 440,
+      "height": 67,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "0beb1a24a56d74bb",
+      "type": "file",
+      "file": "Mapa Fantástico da Ilha Verde.png",
+      "x": 560,
+      "y": -346,
+      "width": 440,
+      "height": 293
+    }
+  ],
+  "edges": []
+}

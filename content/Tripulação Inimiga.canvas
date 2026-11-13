@@ -1,0 +1,311 @@
+{
+  "nodes": [
+    {
+      "id": "cb77f49411de232a",
+      "type": "text",
+      "text": "Recursos\nEquipamentos\nDinheiro\nContatos",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -120,
+      "y": -178,
+      "width": 156,
+      "height": 122
+    },
+    {
+      "id": "f02c4b1eef6dc67c",
+      "type": "text",
+      "text": "Membros na guerra de persusao\nNome\nPrincipal motivaçao\nNivel de lealdade",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -45,
+      "y": -26,
+      "width": 293,
+      "height": 122
+    },
+    {
+      "id": "bccef98afae33c77",
+      "type": "text",
+      "text": "**Edmund Vane** - 48 anos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1380,
+      "y": -400,
+      "width": 460,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "d58079cc70852a02",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-11 at 06.39.51 (1).jpeg",
+      "x": -1380,
+      "y": -340,
+      "width": 201,
+      "height": 220
+    },
+    {
+      "id": "c47aa53d4df5d3fb",
+      "type": "text",
+      "text": "###### ==🔴Capitão da Maré Rubra==\nUm homem curioso e corajoso que sempre demonstrou grande paixão por explorar. Extremamente determinado e bem cabeça dura.\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1179,
+      "y": -340,
+      "width": 259,
+      "height": 220
+    },
+    {
+      "id": "c764271382d60870",
+      "type": "text",
+      "text": "Objetivos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1610,
+      "y": -120,
+      "width": 460,
+      "height": 46,
+      "color": "#e8798f"
+    },
+    {
+      "id": "3379f18dd22781ce",
+      "type": "text",
+      "text": "Encontrar Agnostos para conseguir Dmitri de volta, a qualquer custo. Sua maior ambição é conseguir seu parceiro de volta.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1610,
+      "y": -74,
+      "width": 460,
+      "height": 95
+    },
+    {
+      "id": "e5703733febde507",
+      "type": "text",
+      "text": "Histórico",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1150,
+      "y": -120,
+      "width": 460,
+      "height": 46,
+      "color": "#e8798f"
+    },
+    {
+      "id": "b152b3ecc9b599eb",
+      "type": "text",
+      "text": "Edmund começou ajudando sua família de mercadores, sempre gostou do mar e se sentia orgulhoso de poder utilizar seu interesse de forma que pudesse ser útil para a família.\nQuando finalmente se tornaram velhos o suficiente, Edmund e William, seu irmão, iniciaram juntos uma nova ideia, um grande plano comercial que poderia mudar tudo.\nOs irmãos passaram alguns anos desenvolvendo-o juntos e, em meio as suas viagens para pesquisas, Edmund conheceu Dmitri, um homem russo que fugiu de casa em busca de uma chance no mar, era ambicioso e tinha muitas ideias, mas ainda buscava uma tripulação. Edmund se encantou com a determinação do homem e decidiu juntar-se a ele.\nEdmund se perdia cada vez mais nas ambições do homem, tornando-as suas também\nConforme os dois se aproximavam, o comportamento de Edmund se alinhava mais e mais aos de um pirata, e a nova vida deixou William insatisfeito, então ele pegou todo o trabalho de vida dos dois e foi embora.\nEdmund nunca o perdoou e, depois de anos de tentativas falhas de conseguir negociar o trabalho de volta, matou seu irmão.\nDesde então, sua tripulação tem se envolvido e estudado o paranormal, utilizando da bruxaria bruta e sacrifícios para se tornarem mais poderosos.\n\nOs anos se passaram e Edmund e Dmitri ficaram cada vez mais próximos, nutrindo sentimentos que nem mesmo eles conseguiam entender ainda. A vida de pirata era muito boa quando compartilhada um com o outro, e tudo estava bem.\nAté que, uma noite, Dmitri deixou o Maré Rubra para trás e nunca mais voltou.\nEdmund tem buscado incessantemente pelo companheiro desde então, e após encontrar a lenda de Agnostos, sabe exatamente o que fazer para tê-lo de volta.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1150,
+      "y": -74,
+      "width": 460,
+      "height": 654
+    },
+    {
+      "id": "26214c8fcf9edf45",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-11 at 08.10.52.jpeg",
+      "x": -1580,
+      "y": -290,
+      "width": 160,
+      "height": 120
+    },
+    {
+      "id": "b0d9b4cf6defd4ac",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-11 at 08.10.52.jpeg",
+      "x": -880,
+      "y": -290,
+      "width": 160,
+      "height": 120
+    },
+    {
+      "id": "9f8878c6dda555de",
+      "type": "text",
+      "text": "Quantidade\nHierarquia\nRegras\nCultura",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -200,
+      "y": 0,
+      "width": 137,
+      "height": 122
+    },
+    {
+      "id": "8afaca8b6ec81223",
+      "type": "text",
+      "text": "Ficha de ameaça",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1610,
+      "y": 21,
+      "width": 460,
+      "height": 46,
+      "color": "#e8798f"
+    },
+    {
+      "id": "42e92671df99af0e",
+      "type": "text",
+      "text": "###### 75 PV\n\n**Físico** 1d12\n**Emoção** 1d8\n**Mente** 1d6\n\nAtletismo 1d8\nBruxaria 1d8\nCrime 1d8\nIntimidar 1d6\nLuta 1d8\nVigor 1d6",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1610,
+      "y": 67,
+      "width": 460,
+      "height": 213
+    },
+    {
+      "id": "95b3dc23f083af1a",
+      "type": "text",
+      "text": "**Corpo a corpo** Espada - 1d8 + 1d12 (Dano RA)\n\n**Ritual** Mutação Rubra - Edmund consegue alterar alguma parte do seu corpo antes de sua ação para aumentar o passo de seu ataque. A condição acaba no fim da rodada.\n\n**Cura** Sangue Coagulado - Quando sofrer um ataque superior a 12PV, pode fechar a ferida instantaneamente através do próprio sangue, diminuindo o dano pela metade.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1610,
+      "y": 280,
+      "width": 460,
+      "height": 300,
+      "color": "#e8798f"
+    },
+    {
+      "id": "10db044be86abea1",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-11 at 06.39.51 (2).jpeg",
+      "x": -2240,
+      "y": -120,
+      "width": 201,
+      "height": 220
+    },
+    {
+      "id": "808eb2e73f4dac82",
+      "type": "text",
+      "text": "Dmitri Orlov - 49 anos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2039,
+      "y": -120,
+      "width": 319,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "cd304cc3fe6d5228",
+      "type": "text",
+      "text": "Dmitri era jovem e tinha o sonho de viver a vida livre de regras no mar, então saiu de seu país em busca de uma tripulação. Uma das pessoas que encontrou foi Edmund, que viria a ser a pessoa mais importante de sua vida e com quem compartilharia seu poder.\n\nJuntos, eles formaram uma tripulação quase imbatível. Em uma de suas viagens, encontraram velhas escrituras em uma ilha que os introduziu ao outro lado, busca que eles continuaram pelo resto de suas vidas. Pesquisando mais sobre o paranormal, refizeram sua identidade pirata e continuaram estudando sob o nome de Maré Rubra.\n\nTudo era ótimo, mas ainda não perfeito. Dmitri queria mais do que tudo poder estar ao lado de Edmund, da forma certa.\nApós anos estudando, descobriu um caminho que poderia seguir até uma terra nunca antes explorada, para que Agnostos cumprisse seu desejo.\n\nEle conseguiu chegar lá, mas descobriu da pior forma possível que o paranormal não é fiel às histórias contadas. Assim que chegou no local, foi recebido por Agnostos, não a divindade da lenda, e sim sua manifestação paranormal.\nAntes que tivesse qualquer chance contra ele, a criatura o prendeu em uma ilusão. Estava ao lado de Edmund e era perfeito. \nInfelizmente, sua mente não era forte o suficiente para lidar com a sobrecarga da ilusão e se corrompeu.\n\nDmitri se transformou no Fragmento, e hoje vaga pelos mares buscando incessantemente por Edmund, para voltar a ter seu desejo realizado.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2039,
+      "y": -60,
+      "width": 319,
+      "height": 257
+    },
+    {
+      "id": "399d14d24d898447",
+      "type": "text",
+      "text": "Teimoso, mas 100% leal ao Edmund",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2240,
+      "y": 100,
+      "width": 201,
+      "height": 97,
+      "color": "#e8798f"
+    },
+    {
+      "id": "1552ec80d6bae3b2",
+      "type": "text",
+      "text": "Hugo Almeida - 63 anos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2039,
+      "y": 263,
+      "width": 319,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "b842863f06c7399b",
+      "type": "text",
+      "text": "Hugo fazia parte da tripulação no início, participando das atividades necessárias. Ele ajudava no que podia, mas não tinha uma grande inclinação ao crime.\nFoi uma das pessoas encontradas na busca inicial de Dmitri e Edmund por tripulantes.\n\nEle passou alguns anos junto com eles, mas as coisas foram se tornando cada vez mais perigosas e estranhas e, um dia, quando os capitães sacrificaram alguém sem necessidade, percebeu os verdadeiros riscos e fugiu.\nEle criou sua família e permaneceu em paz, longe de todos esses problemas.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2039,
+      "y": 323,
+      "width": 319,
+      "height": 257
+    },
+    {
+      "id": "959fa8d4a2a22d85",
+      "type": "text",
+      "text": "Não quer ter mais nada a ver com eles.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2240,
+      "y": 483,
+      "width": 201,
+      "height": 97,
+      "color": "#e8798f"
+    },
+    {
+      "id": "9a789d395884d2ba",
+      "type": "file",
+      "file": "WhatsApp Image 2026-11-12 at 17.07.21.jpeg",
+      "x": -2240,
+      "y": 263,
+      "width": 201,
+      "height": 220
+    }
+  ],
+  "edges": []
+}

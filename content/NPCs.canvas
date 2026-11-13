@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "id": "eb353a95110b86c6",
+      "type": "text",
+      "text": "NPCs de cada Ilha\nImpressao dos jogadores\nMecanicas\nHistória e contexto",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -240,
+      "y": -200,
+      "width": 237,
+      "height": 122
+    }
+  ],
+  "edges": []
+}

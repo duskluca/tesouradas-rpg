@@ -1,0 +1,491 @@
+{
+  "nodes": [
+    {
+      "id": "37b3c72b76619a90",
+      "type": "text",
+      "text": "Bastian e seu amigo Pietro costumam se encontrar em uma velha torre em cima de uma taverna, numa região da ilha que não é mais habitada. Eles têm uma coleção de itens que deixam no seu ponto de encontro (Moedas antigas, garrafa de bebida roubada dos pais, pedrinhas brilhantes, entre outras pequenas coisas que eles juntam) e nas últimas semanas perceberam que o nível da água estava subindo, então combinaram de ir buscá-los.\nEntretanto, chegando lá, eles se distraíram juntos e passaram algumas horas a mais na torre. Durante esse tempo, o nível da água subiu muito e os prendeu lá.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1020,
+      "y": -40,
+      "width": 470,
+      "height": 360
+    },
+    {
+      "id": "8ec6ae2d64626fa6",
+      "type": "text",
+      "text": "Por trás do mistério",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1020,
+      "y": -100,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "8d12f71c2154ab21",
+      "type": "text",
+      "text": "Encontrar o filho da Leonora, que sumiu a alguns dias, para conseguir a recompensa prometida de 500 moedas e uma espada lendária.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": -40,
+      "width": 470,
+      "height": 120
+    },
+    {
+      "id": "2878b2ad70e92a93",
+      "type": "text",
+      "text": "Objetivo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": -100,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "d17e5c4a4947e1cb",
+      "type": "text",
+      "text": "Side quest",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1400,
+      "y": -180,
+      "width": 200,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "fd8c5e114eeab1fa",
+      "type": "text",
+      "text": "- Encontrar o caminho (Sobrevivência)\n- Combate com os afogados\n- Casa abandonada\n- Descobrir o caminho que não está no mapa\n- Resgatar os meninos na água",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 160,
+      "width": 470,
+      "height": 160
+    },
+    {
+      "id": "fff24c9ec811fbb2",
+      "type": "text",
+      "text": "Caminho pela floresta",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 100,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "c357f056c83393f8",
+      "type": "text",
+      "text": "1. **Entrando na floresta**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1020,
+      "y": 340,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "a1dd94ee90cb9cb9",
+      "type": "text",
+      "text": "2. **Combate com os afogados**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 340,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "f93ec68935559d11",
+      "type": "text",
+      "text": "Essa parte apenas requere um teste de Sobrevivência + Mente de cada um. Aquele que falhar sofre um dos efeitos a seguir (1D6):\n1. **Escorregão:** O personagem desliza no chão lamacento e cai alguns metros pela encosta. Pode se segurar com um teste de Acrobacia + Físico DT7, em caso de falha desliza até a água e tem que escalar de volta (15)\n2. **Caminho lamacento:** A vegetação escondia uma área encharcada, a perna afunda e o personagem tem que se manter para fora com um teste de Atletismo + Físico DT10. Se falhar, tem que ser tirado por outra pessoa, com Atletismo + Físico DT10.\n3. **Galho no caminho:** Um galho pesado bate no personagem enquanto ele passa, e derruba 1 item do inventário do personagem.\n4. **Sanguessugas:** O personagem percebe que está cheio de sanguessugas e perde 1PV por rodada coberto por elas. Para elas se soltarem, deve ser usada alguma substância como álcool, sal ou calor.\n5. **Árvore no caminho:** Um tronco cai no personagem e o deixa preso lá em baixo, a árvore tem que ser levantada por algum método criativo, visto que é bem pesada.\n6. **Gambá:** Uma fruta podre cai em cima do personagem, e agora ele está fedendo até parar e tomar um banho.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": 1020,
+      "y": 400,
+      "width": 470,
+      "height": 313
+    },
+    {
+      "id": "7e163597a8efa811",
+      "type": "text",
+      "text": "Ficha presente em \"Ameaças\"",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 400,
+      "width": 470,
+      "height": 60
+    },
+    {
+      "id": "3c65473b1e352873",
+      "type": "text",
+      "text": "3. **Casa na floresta**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 480,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "939649db7c8fb9ef",
+      "type": "text",
+      "text": "Área de investigação, é possível encontrar:\n- Embalagens de comida dos meninos (Não precisa de teste)\n- Pegadas de lama ainda molhadas (Percepção + Mente DT6)\n- As coisas foram recentemente organizadas, pode significar que alguém pretende usar o lugar (Intuição + Emoção DT7)\n- Um quadro de como a ilha era antes (Não precisa de teste)\n- Um antigo mapa do local, que não bate com o terreno atual (Não precisa de teste)",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 540,
+      "width": 470,
+      "height": 173
+    },
+    {
+      "id": "4fcd9e52e3eb2696",
+      "type": "text",
+      "text": "4. **Fora do mapa**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1020,
+      "y": 740,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "bae50a5833839468",
+      "type": "text",
+      "text": "Depois de andar por um tempo, dão de cara com uma parte que não se encontra no mapa, e a única forma de passar é através de um trepa trepa construído acima de um abismo na água.\n\nPara passar, é necessário passar em um teste de resistência que consiste em fazer testes de uma determinada perícia através de 5 rodadas, mas após usar essa perícia, ela diminui um passo. Em caso de falha, é necessário fazer um teste de equilíbrio.\n\nOs jogadores podem ajudar uns aos outros, auxiliando nos testes com aumentos de passo.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1020,
+      "y": 800,
+      "width": 470,
+      "height": 280
+    },
+    {
+      "id": "2e77df0644a3e145",
+      "type": "text",
+      "text": "5. Resgate",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 740,
+      "width": 470,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "0470c5917adc84d0",
+      "type": "text",
+      "text": "Os jogadores conseguem ver os meninos no topo da torre ao longe, e precisam encontrar uma forma de chegar mais perto, a critério deles.\n\nPara mergulhar, os jogadores começam com 30 Pontos de Ar. A cada rodada (4 ida e 4 volta), perdem 10 pontos, que serão cortados pela RA do teste (Atletismo ou Vigor) caso passe na DT (7).\nA cada falha, seu dado de perícia diminui um passo.\nSe zerar seus pontos de ar, precisa que outro jogador o leve para a superfície, ainda contando suas rodadas.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1520,
+      "y": 800,
+      "width": 470,
+      "height": 280
+    },
+    {
+      "id": "be05b2986cb1e639",
+      "type": "text",
+      "text": "Contexto da ilha",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 446,
+      "y": -180,
+      "width": 200,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "ab7e4f541b27b6ea",
+      "type": "text",
+      "text": "A ilha era conhecida pela aparência paradisíaca, com suas praias bonitas e sua maré tradicionalmente oscilante. Mas, em algum momento sua maré parou de retroceder e a ilha tem afundado cada vez mais.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 240,
+      "y": -100,
+      "width": 411,
+      "height": 160
+    },
+    {
+      "id": "3ee79c504df781d9",
+      "type": "text",
+      "text": "Comportamento da comunidade",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 665,
+      "y": -100,
+      "width": 250,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "c12e9dfe5091ed0e",
+      "type": "text",
+      "text": "As casas ficam muito amontoadas, concentradas nas colinas, pois muitos moradores perderam a casa por causa da água.\n\nMuitas pessoas mais velhas são muito nostálgicas de como a vida costumava ser, guardam quadros e memórias de antes do lugar afundar.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 665,
+      "y": -40,
+      "width": 250,
+      "height": 440
+    },
+    {
+      "id": "79bc2d7e130fa7ee",
+      "type": "text",
+      "text": "Essa ilha não deveria existir. Essa formação de terra estava destinado a deixar de ser muitos anos atrás, mas diversos fatores ~={purple}improváveis=~ a mantiveram de pé por todos esses anos, e agora a Morte está tentando tomar de volta aquilo que já deveria ter chegado a um fim.\n\nO elemento de Morte está atingindo a ilha aos poucos, envelhecendo e apodrecendo a base da ilha, que cede cada vez mais para dentro do oceano.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 240,
+      "y": 80,
+      "width": 411,
+      "height": 320
+    },
+    {
+      "id": "28501096037e2431",
+      "type": "text",
+      "text": "**Leonora Valcourt** - 40",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2080,
+      "y": 58,
+      "width": 232,
+      "height": 66,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "8c96c3a937eede30",
+      "type": "file",
+      "file": "2141620_Bs8VX3IS.png",
+      "x": 2080,
+      "y": 124,
+      "width": 232,
+      "height": 232
+    },
+    {
+      "id": "139c9ec7db201271",
+      "type": "text",
+      "text": "NPCs",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2265,
+      "y": -12,
+      "width": 120,
+      "height": 60,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "af218772e61db429",
+      "type": "text",
+      "text": "**Pietro Novais** - 14",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2080,
+      "y": 528,
+      "width": 232,
+      "height": 66,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "f3d3ad8f35a1beb3",
+      "type": "text",
+      "text": "**Amadeo Salvatierra** - 72",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2340,
+      "y": 528,
+      "width": 232,
+      "height": 66,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "030ebc355c62c765",
+      "type": "file",
+      "file": "download20261103004720.png",
+      "x": 2080,
+      "y": 594,
+      "width": 232,
+      "height": 232
+    },
+    {
+      "id": "7ba777ee9e8d80e1",
+      "type": "file",
+      "file": "download20261103005109.png",
+      "x": 2340,
+      "y": 594,
+      "width": 232,
+      "height": 232
+    },
+    {
+      "id": "b6dc1ff95366cec3",
+      "type": "text",
+      "text": "É um amigo bem carinhoso e gentil no geral, ele é como o racional do Bastian.\nEle costuma seguir o Bastian nas bostas dele por carinho mesmo, e sempre tenta amenizar a situação.\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2080,
+      "y": 826,
+      "width": 232,
+      "height": 162
+    },
+    {
+      "id": "b6f05b10ddafb5d3",
+      "type": "text",
+      "text": "É um senhorzinho simpático mas meio desanimado que sente muita falta da ilha de antes.\nEle provavelmente é o melhor npc pra descobrir sobre o passado da ilha.\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2340,
+      "y": 826,
+      "width": 232,
+      "height": 162
+    },
+    {
+      "id": "4687415da5249af3",
+      "type": "text",
+      "text": "**Bastian Valcourt** - 16",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2340,
+      "y": 58,
+      "width": 232,
+      "height": 66,
+      "color": "#65b9a7"
+    },
+    {
+      "id": "443e8022b42b6548",
+      "type": "file",
+      "file": "2141620_kut0uwbq.png",
+      "x": 2340,
+      "y": 124,
+      "width": 232,
+      "height": 232
+    },
+    {
+      "id": "e05a576e9484a630",
+      "type": "text",
+      "text": "Mãe do Bastian. Riquinha, seduzente e bem cheia de si.\nEla só quer o filhinho dela de volta e está oferecendo um artefato que o marido dela não sabe que está sendo deixado.\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2080,
+      "y": 356,
+      "width": 232,
+      "height": 162
+    },
+    {
+      "id": "7034d6fe27fcdb3d",
+      "type": "text",
+      "text": "Bem corajoso, aventureiro e especialmente teimoso.\nEle tá sempre fazendo bosta e é bem descontraído, mimado chatinho.\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 2340,
+      "y": 356,
+      "width": 232,
+      "height": 162
+    }
+  ],
+  "edges": []
+}

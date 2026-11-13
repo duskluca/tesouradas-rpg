@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "id": "9b6ed20da213c810",
+      "type": "text",
+      "text": "Ela tem montanhas e pico e faz eco\nIlha default do fragmento\nPosso fazer uma diâmica onde os ecos destoam pra dar uma dica",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -280,
+      "y": -160,
+      "width": 440,
+      "height": 122
+    }
+  ],
+  "edges": []
+}

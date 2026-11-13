@@ -1,0 +1,517 @@
+{
+  "nodes": [
+    {
+      "id": "c82d4c1048568f9c",
+      "type": "text",
+      "text": "Investigação e Estrutura",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -840,
+      "y": -360,
+      "width": 240,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "fa15b3abfa5c18e2",
+      "type": "text",
+      "text": "**Hall de entrada**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1040,
+      "y": -260,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "676126a9ed872ccd",
+      "type": "text",
+      "text": "O hall é uma sala grande e espaçosa, que apesar do tamanho não tem muita coisa nela. É elegante e parece decorada com objetivo de recepcionar presenças importantes.\nNo meio do hall, tem um pequeno móvel cheio de cartas. Provavelmente onde fica a correspondência.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1040,
+      "y": -200,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "2ab07309a20cc929",
+      "type": "text",
+      "text": "**==🟣POIs==**\n###### Mesa de correspondência\n\n- Percepção (DT6) - Em meio às cartas, tem uma endereçada a Clarissa que parece particularmente velha. \n*Handout 1",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -720,
+      "y": -260,
+      "width": 325,
+      "height": 280
+    },
+    {
+      "id": "91c205c91dbe7978",
+      "type": "text",
+      "text": "**Sala de jantar**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1485,
+      "y": -120,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "aada27ad04c16163",
+      "type": "text",
+      "text": "Praticamente intocada. Tem uma grande mesa e parece ter tido sua arrumação deixada pela metade.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1485,
+      "y": -60,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "63a2cc520e3321c1",
+      "type": "text",
+      "text": "**Sala de estar**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -224,
+      "y": -180,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "4a05cbcf7028fcd1",
+      "type": "text",
+      "text": "==🟣Zumbi de sangue==\nA sala provavelmente já foi muito elegante previamente, mas agora está bagunçada e cheia de itens danificados, com várias cadeiras direcionadas ao meio da sala, como se ouvissem a algum discurso",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -224,
+      "y": -120,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "73c1d7b2202dea20",
+      "type": "text",
+      "text": "**Cozinha**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1960,
+      "y": -90,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "be357306fa07f8b3",
+      "type": "text",
+      "text": "Bem grande, eles provavelmente vão encontrar alguns funcionários escondidos caso decidam entrar aqui.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1960,
+      "y": -30,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "581967aa6a678653",
+      "type": "text",
+      "text": "**Biblioteca**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1200,
+      "y": 313,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "5ca42df93b3fcab8",
+      "type": "text",
+      "text": "**==🟣POIs==**\n###### Mesa de estudos\nEssa mesinha tem alguns livros sobre ela.\n- Percepção (DT6) - Os livros são todos sobre a família, de certa forma, como livros de genealogia, histórias e diários de viagem.\n\nE alguns materiais de estudo, que parecem ter sido deixados para trás.\n- Percepção (DT6) - Entre os materiais tem uma folha de anotações, que contém nomes de diversas pessoas, provavelmente da família, e alguns deles estão marcados.\n\n###### Ala de mapas\nA sala possuí diversos mapas e materiais de navegação, e especialmente rotas comerciais. Entretanto, alguns dos mapas parecem ter sido tirados do lugar e estão expostos sobre a mesa.\n- Inspecionar (DT7) - Os mapas sobre a mesa tem diversas anotações e comparações, mas mesmo com tantas tentativas, não há um lugar marcado.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -880,
+      "y": 313,
+      "width": 325,
+      "height": 280
+    },
+    {
+      "id": "3e0288ee8a88c150",
+      "type": "text",
+      "text": "Uma coleção de livros extensa e completa. Esse lugar não parece ser acessado constantemente, já que parece empoeirado em sua maioria, exceto por uma mesinha específica, que ainda tem alguns materiais sobre ela.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1200,
+      "y": 373,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "5e6b152800aa8d90",
+      "type": "text",
+      "text": "Escadas",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -395,
+      "y": 200,
+      "width": 183,
+      "height": 57
+    },
+    {
+      "id": "1004b0c847030fd6",
+      "type": "text",
+      "text": "Corredor",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -64,
+      "y": 285,
+      "width": 183,
+      "height": 57
+    },
+    {
+      "id": "9399af187e66f2e0",
+      "type": "text",
+      "text": "**==🟣POIs==**\n###### Mesa de documentos\nTodos os documentos jogados em cima da mesa tem uma caligrafia em comum.\n- Memória (DT6) - Todos eles foram escritos na letra da Clarissa.\n- Percepção (DT8) - Esses documentos parecem ter sido retirados de outro lugar, visto que não parecem se encaixar com os outros da sala.\n- Intuição (DT8) - Eles parecem ter sido juntados de forma apressada, provavelmente quando a Clarissa sumiu.\n- Inspecionar (DT7) - Tem documentos variados de tópicos diferentes, mas alguns sobre a lanterna descrevem que ela acende sem uma vela e mostrou a visão de uma ilha com uma formação rochosa inusitada.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 640,
+      "y": 5,
+      "width": 325,
+      "height": 280
+    },
+    {
+      "id": "a24d74b874857a5b",
+      "type": "text",
+      "text": "Uma sala mais fechada, coberta por documentos em todos os lados. Diversos tópicos categorizam cada ficheiro, especialmente envolvendo economia.\nA sala é majoritariamente organizada, mas é perceptível que alguns dos documentos que estão na mesa foram deixados de forma bagunçada.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 320,
+      "y": 65,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "235b742f35dbc2a8",
+      "type": "text",
+      "text": "**Escritório**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 320,
+      "y": 5,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "92460e9acc499d22",
+      "type": "text",
+      "text": "**Quartos menores**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 261,
+      "y": 520,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "2afd5e5a21d07c25",
+      "type": "text",
+      "text": "==🟣O primeiro quarto aberto vai ter um zumbi de Sangue.==\n###### Martha\nEsse quarto tem muitas coisas deixadas pra trás, especialmente roupas e jogos, como baralhos e dados. O lugar é cheio de cartas velhas, trocadas entre jovens.\n\n###### Edward\nEsse quarto é bem mais simples. Ele tem diversos livros e escrituras, e uma caixinha cheia de cartas, vindas de uma garota apaixonada.\n\n###### Keith\nProvavelmente o quarto mais interessante, ele tem equipamento de equitação pelo lugar e algumas medalhas. Na decoração, existem várias miniaturas de barco e alguns mapas.\n\n###### Jack\nEsse quarto tem vários brinquedos e miniaturas nas prateleiras, o que mantém um aspecto jovem, mas também tem algumas cartas mais maduras e garrafas de bebida na decoração.\n\n###### Clarissa\nEsse quarto é de longe o mais organizado. Ele é majoritariamente composto por estantes de livros e tem um espaço grande de estudos, com uma escrivaninha, papéis e materiais de escrita. Também é possível ver uma guitarra barroca encostada ao canto.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 261,
+      "y": 580,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "bdb11bd28cddac0d",
+      "type": "text",
+      "text": "**Quarto dos pais**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -546,
+      "y": 770,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "5e62dacc070cd8f8",
+      "type": "text",
+      "text": "**==🟣POIs==**\n###### Olivia Blyth\n- Percepção (DT8) - Os jogadores conseguem ouvir alguns soluços baixos vindo de um armário no canto do quarto. Caso decidam olhar, Olivia está escondida lá.\n- Olivia não sabe muito sobre o que aconteceu e menos ainda sobre as motivações deles, mas se lembra de Clarissa ter perguntado pela lanterna recentemente.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -226,
+      "y": 770,
+      "width": 325,
+      "height": 280
+    },
+    {
+      "id": "869a3fb33b286af6",
+      "type": "text",
+      "text": "O quarto é grande e espaçoso, a cama de casal ainda está bagunçada e o quarto não parece ter sido muito afetado pela invasão.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -546,
+      "y": 830,
+      "width": 320,
+      "height": 220
+    },
+    {
+      "id": "d65ff1dccc8518e4",
+      "type": "text",
+      "text": "Subsolo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1383,
+      "y": 680,
+      "width": 183,
+      "height": 57
+    },
+    {
+      "id": "3c65934443260174",
+      "type": "text",
+      "text": "**Sala de antiguidades**",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1640,
+      "y": 830,
+      "width": 320,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "a8fd43bf563070a3",
+      "type": "text",
+      "text": "Esse é o local mais afetado pela invasão, está todo quebrado e muitas das coisas presentes ali foram levadas.\nEntretanto, o local que continha a lanterna não foi quebrado, o que indica que ela provavelmente foi retirada antes da invasão.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1640,
+      "y": 890,
+      "width": 320,
+      "height": 230
+    },
+    {
+      "id": "f468e9e083a71e26",
+      "type": "text",
+      "text": "Handouts",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1040,
+      "y": 1280,
+      "width": 240,
+      "height": 60,
+      "color": "#b28ad7"
+    },
+    {
+      "id": "c3be3efc92129f08",
+      "type": "file",
+      "file": "Handout BM.png",
+      "x": -1102,
+      "y": 1423,
+      "width": 364,
+      "height": 507
+    },
+    {
+      "id": "c300409bc5bb3394",
+      "type": "text",
+      "text": "Handout 1",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1102,
+      "y": 1360,
+      "width": 364,
+      "height": 63
+    }
+  ],
+  "edges": [
+    {
+      "id": "6ffdaec16b991c58",
+      "fromNode": "676126a9ed872ccd",
+      "fromSide": "left",
+      "toNode": "aada27ad04c16163",
+      "toSide": "right",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "c2ed5f7d338b4b12",
+      "fromNode": "aada27ad04c16163",
+      "fromSide": "left",
+      "toNode": "be357306fa07f8b3",
+      "toSide": "right",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "6e9eee4ce2de0097",
+      "fromNode": "2ab07309a20cc929",
+      "fromSide": "right",
+      "toNode": "4a05cbcf7028fcd1",
+      "toSide": "left",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "b62721b5a9a4c210",
+      "fromNode": "676126a9ed872ccd",
+      "fromSide": "bottom",
+      "toNode": "581967aa6a678653",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "794737db9367aa7c",
+      "fromNode": "2ab07309a20cc929",
+      "fromSide": "bottom",
+      "toNode": "5e6b152800aa8d90",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "7ae255962f73d05d",
+      "fromNode": "5e6b152800aa8d90",
+      "fromSide": "bottom",
+      "toNode": "1004b0c847030fd6",
+      "toSide": "left",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "c47ee6de2a5917b4",
+      "fromNode": "1004b0c847030fd6",
+      "fromSide": "right",
+      "toNode": "a24d74b874857a5b",
+      "toSide": "bottom",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "e3307eab19402afe",
+      "fromNode": "1004b0c847030fd6",
+      "fromSide": "bottom",
+      "toNode": "92460e9acc499d22",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "09c48d943b4ba069",
+      "fromNode": "1004b0c847030fd6",
+      "fromSide": "bottom",
+      "toNode": "bdb11bd28cddac0d",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "a421c1cab974bfaa",
+      "fromNode": "3e0288ee8a88c150",
+      "fromSide": "bottom",
+      "toNode": "d65ff1dccc8518e4",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "6"
+    },
+    {
+      "id": "52c7f2ee1a13f786",
+      "fromNode": "d65ff1dccc8518e4",
+      "fromSide": "bottom",
+      "toNode": "3c65934443260174",
+      "toSide": "top",
+      "fromEnd": "arrow",
+      "color": "6"
+    }
+  ]
+}

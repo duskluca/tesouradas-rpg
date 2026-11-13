@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "5b2282f9136d394c",
+      "type": "text",
+      "text": "###### A Lanterna do Desconhecido\n~={yellow}Conhecimento=~ + ~={purple}Energia=~\n\nUma lanterna a óleo normal, de forma retangular. Entretanto, essa lanterna não possuí uma vela, suas chamas são acendidas diretamente na base dela e, assim que acendidas, mostram uma pequena dica ou vislumbre de um lugar nunca antes encontrado.\n\nPessoas mundanas não reconhecem esse efeito, mas a ilha é reconhecida pelo estado específico da membrana de um local que tem uma passagem do outro lado, mas nunca foi realmente tocada por humanos.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1240,
+      "y": -188,
+      "width": 520,
+      "height": 408
+    },
+    {
+      "id": "5ec00952f2483820",
+      "type": "text",
+      "text": "###### A Taça de Intenções\n~={red}Sangue=~ + ~={yellow}Conhecimento=~\n\nUma taça de ouro, com detalhes avermelhados, que parece não aceitar o contato com substâncias externas. A parte de dentro da taça tem uma mancha vermelha, que parece integrada ao material.\nA taça absorve as intenções da pessoa que depositar seu sangue nela, através da absorção do líquido.\n\nAquele que beber da taça absorve as intenções da última pessoa que colocou seu sangue no artefato, e a única forma de se livrar do efeito é uma outra pessoa colocando suas intenções nela, através do sangue (1D6).\n\n==🔴Intenção da Clarissa: Voltar para casa e cuidar das meninas.==",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1780,
+      "y": -188,
+      "width": 520,
+      "height": 408
+    },
+    {
+      "id": "eda1c8d6f73d5050",
+      "type": "text",
+      "text": "",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -700,
+      "y": -188,
+      "width": 520,
+      "height": 408
+    },
+    {
+      "id": "bece8b74b536809a",
+      "type": "text",
+      "text": "Equipamento\nObjetos amaldicoados\nPossiveis conquistas",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -288,
+      "y": -440,
+      "width": 216,
+      "height": 97
+    },
+    {
+      "id": "f1cc9aecf929663a",
+      "type": "text",
+      "text": "Objetos Amaldiçoados",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1240,
+      "y": -260,
+      "width": 520,
+      "height": 60,
+      "color": "#e8798f"
+    }
+  ],
+  "edges": []
+}

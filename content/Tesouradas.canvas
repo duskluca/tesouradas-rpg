@@ -1,0 +1,171 @@
+{
+  "nodes": [
+    {
+      "id": "fb967ba82911e71e",
+      "type": "text",
+      "text": "Sessão 1",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "solid",
+      "x": -1600,
+      "y": -740,
+      "width": 720,
+      "height": 60,
+      "color": "#e8798f"
+    },
+    {
+      "id": "467ef8a7eff532a6",
+      "type": "text",
+      "text": "Gaspar planejou uma invasão a um navio inimigo para saquear recursos no meio da noite. Os jogadores conseguiram encontrar alguns recurso, como materiais de mapas, medicamentos e mercadorias valiosas.\nApós chegar a sala de mercadorias, Evangeline encontrou Clarissa presa no navio de decidiu levá-la. De volta no navio, eles tentam se comunicar com ela apesar da barreira linguística e acabam utilizando papel e desenhos para isso.\nClarissa conta sobre a lanterna de óleo que eles queriam saber sobre, que pertence a sua família, e Evangeline sugere que eles tentem encontrá-la primeiro.\nBarbara se oferece pra observar Clarissa durante a noite.\n\nNa manhã seguinte, o barco para em uma pequena cidadezinha litorânea onde os personagens jogam alguns jogos e passeiam pelas praias, e Poti consegue ganhar um mapa estranho num jogo de azar. O mapa é estranho porque não tem referências geográficas, apenas um caminho com pequenas referências desenhadas, e eles vão até a ilha procurar o que está marcado no mapa.\nEvangeline, Poti e Gaspar foram seguir o mapa enquanto Barbara, Clarissa e Philippe ficaram no barco. O grupo de busca acabou se perdendo algumas vezes, mas encontraram a casa de Arnold Hanks, um homem com problemas de memória que fez o mapa para conseguir voltar para casa, com sua esposa.\nEnquanto isso, no grupo do barco, Barbara consertou uma vela e então foi dormir, enquanto Philippe e Clarissa se conheciam melhor.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": -680,
+      "width": 720,
+      "height": 180
+    },
+    {
+      "id": "2e1a33dbcddb8dad",
+      "type": "text",
+      "text": "Resumos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -1332,
+      "y": -800,
+      "width": 185,
+      "height": 50,
+      "color": "#e8798f"
+    },
+    {
+      "id": "14f78106db0af53c",
+      "type": "text",
+      "text": "Sessão 2\n",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "solid",
+      "x": -1600,
+      "y": -480,
+      "width": 720,
+      "height": 60,
+      "color": "#e8798f"
+    },
+    {
+      "id": "fa6c48c2b0c5d4ad",
+      "type": "text",
+      "text": "Evangeline bebeu da taça que encontrou na Maré Rubra, recebendo as intenções de Dmitri, que a fizeram ficar ciumenta e possessiva. Percebendo o comportamento estranho e reconhecendo vir da taça, Barbara investigou os documentos encontrados no navio inimigo e recebeu a pista de que o item foi achado em uma capela na Ilha dos Contraventos.\nLá, eles chamaram a ajuda de um habitante para levá-los até a capela, onde Evangeline encontrou algumas pistas e as queimou, por medo de prejudicar outra pessoa ao se livrar das intenções.\nPorém, quando revelou que consegue entender francês e teve acesso as informações do grupo, Clarissa utilizou suas próprias intenções para livrar Evangeline.\nNo caminho de volta, encontraram uma carroça com corpos, parada ao lado de um armazém portuário e, olhando lá dentro, Evangeline encontrou Bento escondido em uma caixa, esperando seus pais retornarem.\nEles o convenceram a ir para o barco, discutiram quem iria dormir com quem e então foram dormir, na companhia de Bento",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": -420,
+      "width": 720,
+      "height": 180
+    },
+    {
+      "id": "2c5d0260ecec25e3",
+      "type": "text",
+      "text": "Tesouradas RPG",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -140,
+      "y": -800,
+      "width": 250,
+      "height": 50,
+      "color": "#e8798f"
+    },
+    {
+      "id": "dd8ff1f7562a673d",
+      "type": "text",
+      "text": "O RPG se passa na era de ouro dos piratas, em 1720. Entretanto, nesse mundo, eventos paranormais marcam essa época de forma diferente, especialmente entre piratas e navegadores, que vivem em meio ao enorme mar desconhecido e muitas lendas e histórias passadas entre as pessoas. Isso nos leva a tripulação dos protagonistas, que é apenas uma embarcação pequena de pessoas que levam essa vida por suas preferências e motivos, buscando não causar mal desnecessário.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -360,
+      "y": -740,
+      "width": 690,
+      "height": 200
+    },
+    {
+      "id": "80273458ab14c8d9",
+      "type": "text",
+      "text": "",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -360,
+      "y": -470,
+      "width": 340,
+      "height": 240
+    },
+    {
+      "id": "cdfbf11a0da52c7d",
+      "type": "text",
+      "text": "",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -10,
+      "y": -470,
+      "width": 340,
+      "height": 240
+    },
+    {
+      "id": "11cd7a32ce519fa1",
+      "type": "text",
+      "text": "Agnostos",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -281,
+      "y": -520,
+      "width": 182,
+      "height": 50,
+      "color": "#e8798f"
+    },
+    {
+      "id": "f4cad975e297a297",
+      "type": "text",
+      "text": "Maré Rubra",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 69,
+      "y": -520,
+      "width": 182,
+      "height": 50,
+      "color": "#e8798f"
+    }
+  ],
+  "edges": []
+}

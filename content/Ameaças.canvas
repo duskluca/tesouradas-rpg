@@ -1,0 +1,543 @@
+{
+  "nodes": [
+    {
+      "id": "59010f079ed47813",
+      "type": "file",
+      "file": "Conhecimento.png",
+      "x": 6400,
+      "y": -6080,
+      "width": 720,
+      "height": 720
+    },
+    {
+      "id": "497646eb0c897b80",
+      "type": "file",
+      "file": "Energia.png",
+      "x": -4800,
+      "y": -1120,
+      "width": 720,
+      "height": 720
+    },
+    {
+      "id": "bd583776f528e1f4",
+      "type": "file",
+      "file": "Agnostos, o Inexplorado.jpeg",
+      "x": -4046,
+      "y": -1120,
+      "width": 320,
+      "height": 213
+    },
+    {
+      "id": "199ab03e4ff78d36",
+      "type": "text",
+      "text": "Agnostos (O Inexplorado)",
+      "ffcBorder": "none",
+      "x": -4046,
+      "y": -907,
+      "width": 320,
+      "height": 50,
+      "color": "6"
+    },
+    {
+      "id": "404bbd3f5270ce5d",
+      "type": "file",
+      "file": "As Sereias.jpeg",
+      "x": -4800,
+      "y": -360,
+      "width": 200,
+      "height": 300
+    },
+    {
+      "id": "bd0ec666cc1f99c9",
+      "type": "text",
+      "text": "As sereias",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "x": -4600,
+      "y": -360,
+      "width": 320,
+      "height": 50,
+      "color": "#ff38a2"
+    },
+    {
+      "id": "bfcc9839198ba8c6",
+      "type": "text",
+      "text": "###### 12 PV\n\n**Físico 1d8**\n**Mente 1d4**\n**Emoção 1d4**\n\nAtletismo 1d6\nLuta 1d6\nPercepção 1d8\nVigor 1d6",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -4600,
+      "y": -309,
+      "width": 320,
+      "height": 249,
+      "color": "#ff38a2"
+    },
+    {
+      "ffcKind": "text",
+      "id": "9258e323f006e62c",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\nAs sereias são criaturas originadas de uma das lendas mais comuns entre piratas, de mesmo nome. Com uma aparência perturbadora e comportamento imprevisível, elas habitam o mar e atacam embarcações em grupos. Seu grito é horrendo, mas aqueles que o ouvem podem ouvir uma bela canção, se atraíndo até elas.\n\n#carta-antiga",
+      "x": -4800,
+      "y": 106,
+      "width": 720,
+      "height": 119
+    },
+    {
+      "id": "c18bee83a7de094a",
+      "type": "file",
+      "file": "O Fragmentado.jpeg",
+      "x": -4046,
+      "y": -360,
+      "width": 200,
+      "height": 300
+    },
+    {
+      "id": "2c6d2eb74495e415",
+      "type": "text",
+      "text": "O Fragmento",
+      "ffcBorder": "none",
+      "x": -3846,
+      "y": -359,
+      "width": 320,
+      "height": 50,
+      "color": "5"
+    },
+    {
+      "id": "01447d5157e5bd7c",
+      "type": "text",
+      "text": "###### 90 PV\n\n**Físico 1d10**\n**Mente 1d4**\n**Emoção 1d8**\n\nDisciplina 1d6\nLuta 1d8\nPercepção 1d8\nPontaria 1d8",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -3846,
+      "y": -309,
+      "width": 320,
+      "height": 249,
+      "color": "5"
+    },
+    {
+      "id": "e85719231177a089",
+      "type": "text",
+      "text": "**Corpo a Corpo** Soco Imaterial 1d10+1d8 (Dano RA)\nO Fragmento te ataca com um soco, mas seu corpo não se comporta como matéria sólida. O golpe atravessa o alvo, mas provoca uma sensação de choque.\n\n**Fragmentos de energia** 1d10+1d8 (Dano RA)\nO Fragmento utiliza os fragmentos de energia que circulam seu corpo pra lançar uma rajada em direção ao alvo.",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -4046,
+      "y": -60,
+      "width": 520,
+      "height": 166,
+      "color": "5"
+    },
+    {
+      "id": "bc5f224c19cd6b3a",
+      "type": "text",
+      "text": "**Fase de adivinhação** (Reduzido a metade dos PVs)\n\nQuando o Fragmento chega em 50% de sua vida, desaparece em fragmentos no ar. Então, em todo começo de rodada, cada jogador secretamente escolhe 1 número entre 1 e 6 e deixa o dado virado com essa face para cima, então 1d6 é jogado para determinar onde o Fragmento irá aparecer. Caso o jogador acerte o número, ganha uma ação extra assim que a criatura aparece, e depois pode realizar a sua ação naturalmente.",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -3526,
+      "y": -359,
+      "width": 200,
+      "height": 466,
+      "color": "5"
+    },
+    {
+      "ffcKind": "text",
+      "id": "1225bdcca3b34fdc",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\nO Fragmento é uma criatura de Energia originada pelo Agnostos. Em meio a ilusão de ter seu maior desejo realizado, sua sanidade foi destroçada e seu corpo se fragmentou da mesma forma. Essa criatura tem uma forma quase imaterial e pode utilizar de suas habilidades de fragmentação para rapidamente se transportar entre ilhas ou desviar de ataques.\n\n#carta-antiga",
+      "x": -4046,
+      "y": 106,
+      "width": 720,
+      "height": 119
+    },
+    {
+      "ffcKind": "text",
+      "id": "00fd0e9a364ff0c5",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\n***Agnostos e o Marinheiro***\n\n#carta-antiga \n\n*Uma antiga lenda grega diz que existe uma entidade divina que pode conceder qualquer desejo. O Inexplorado.*\n\n*Essa divindade aparece apenas para aquele que conseguir encontrar um lugar desconhecido, uma região que nunca antes foi explorada. Por isso, encontrar Agnostos, mais conhecido como o Inexplorado, é uma das maiores façanhas que um explorador poderia alcançar.*\n\n*Entretanto, ter seu desejo realizado tem um preço.*\n\n*Muitos anos atrás, um homem navegava com sua tripulação, quando, durante uma tempestade que tomou muitos de seus homens, seu navio saiu de seu curso planejado e acabou fora das rotas conhecidas.*\n*Enquanto o dia clareava, esse homem bravamente encontrou seu caminho em direção a uma ilha.*\n*A ilha não parecia ter alguma população, não aparecia em nenhum mapa e não mostrava qualquer sinal de que alguém havia pisado ali.*\n*Enquanto assistia o sol nascer nas proximidades dessa ilha, recebeu a visita do Inexplorado.*\n*Devido a seu mérito, o Inexplorado ofereceu a chance de realizar um desejo, e assim o fez.*\n\n*O homem voltou para sua vida mais feliz do que nunca, aproveitando sua nova vida, com o desejo concedido.*\n*Entretanto, alguns dias depois do encontro, no meio da noite, ouviu barulhos vindo do convés de seu barco e decidiu ir investigar.*\n*Chegando lá, encontrou um velho cadáver em seu navio. Em meio ao susto pela presença inesperada, o homem joga o corpo de volta no mar e volta a dormir, rezando que tenha se livrado do problema.*\n*Mas o desconforto apenas piorou, já que nos próximos dias encontrou cada vez mais mortos, em todos os lugares, até mesmo se movendo de forma independente.*\n*Não importava o quanto tentasse se livrar deles e viver em paz, eles continuavam voltando, e cada vez mais deles.*\n*O homem fez o possível para tentar escapar, mas nunca mais foi visto. Nunca mais houveram sinais de um encontro com a entidade, o que alguns consideram decepcionante, e outros um milagre.*\n\nO Agnostos é uma criatura que se originou de uma antiga lenda sobre uma entidade que realiza desejos. Essa manifestação habita ilhas e mares que nunca foram descobertos, esperando que algum navegador desavisado encontre seu destino com ela.\n\n#carta-antiga ",
+      "x": -4046,
+      "y": -857,
+      "width": 320,
+      "height": 457
+    },
+    {
+      "id": "feda0fe52b7a68b4",
+      "type": "text",
+      "text": "###### 650 PV\n\n**Físico 1d20**\n**Mente 1d8**\n**Emoção 1d12**\n\nAtletismo 1d20\nIntimidação 1d10\nLuta 1d12\nPercepção 1d20\nVigor 1d20",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -3726,
+      "y": -1120,
+      "width": 400,
+      "height": 263,
+      "color": "6"
+    },
+    {
+      "id": "9066f470ad884dbe",
+      "type": "text",
+      "text": "**Mecânica de perseguição**\n\nArquivos Secretos Outubro pág. 73\n\nNa fase em terra, o Agnostos apenas acompanha os personagens lentamente, sem alguma possibilidade real de morte aqui. Nessa parte, o jogadores apenas acumulam suas RA durante 5 rodadas.\n\nNa segunda fase, dentro do barco, os pontos de perseguição individuais são somados e os jogadores fazem testes para manter o barco funcionando, ainda somando cada RA. Os jogadores têm 5 rodadas para alcançar 180 pontos, se conseguirem deixam o Agnostos pra trás, chegando em uma rota mais conhecida.\n\n**Habilidades de perseguição**\n\nOnda Colossal - Agnostos se move pelo mar e uma parte de seu corpo emerge violentamente da água, todos fazem um teste de Atletismo (DT10) pra se manterem equilibrados. Cada falha custa 1d6 de pontos de perseguição.\n\nRessaca - Agnostos mergulha ou se movimenta sob o barco, criando uma correnteza que o puxa para trás. Essa ação custa 1d6 pontos de perseguição.\n\nCorpo no Caminho - Uma parte do corpo de Agnostos aparece no meio do caminho. É necessário fazer um teste de Pilotagem (DT10) para desviar dele. Em caso de falha, 1d6 é retirado dos pontos de perseguição.\n\nO Chamado dos Mortos - Alguns cadáveres (1d6) aparecem no barco e tentam agarrar os personagens, sua ação sofre -1d6 até que o corpo seja morto.\n\nAparição - Agnostos coloca o rosto para fora da água perto do navio, todos devem fazer um teste de disciplina (DT10) e em caso de falha ficam assustados, adicionando um dado de pavor às próximas rolagens.\n\n",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -3726,
+      "y": -857,
+      "width": 400,
+      "height": 457,
+      "color": "6"
+    },
+    {
+      "id": "291f251d61c410ac",
+      "type": "text",
+      "text": "**Comportamento Errático** (1d8)\n\n1. As sereias geram uma comoção nas ondas, na tentativa de virar o barco. Os jogadores devem assumir todos os postos de controle do barco (DT8) para que o barco não vire.\n\n2. Uma sereia salta e tenta puxar um dos personagens para o mar, o jogador pode tentar se soltar ou ser solto por um teste de atletismo DT12.\n\n3. As sereias invadem o convés e começam a atacar os personagens corpo a corpo.\n\n4. As sereias soltam um grito hipnótico. O grito é agudo a agoniante, mas todos aqueles que falharem em um teste de disciplina (DT10) escutam uma música bela e atrativa, e tentam se aproximar da água.\n\n5. Todas as sereias desaparecem debaixo d'água e deixam os jogadores sem saberem sua posição, fazendo com que seu próximo ataque os pegue desprevenidos. Percepção (DT13) evita.\n\n6. As sereias geram uma movimentação na água ao redor do barco, e o tiram de seu rumo. Se os personagens não conseguirem controlá-lo até o fim do combate ficam perdidos.\n\n7. As sereias começam a bater no casco do navio. Na primeira rodada, não tem efeitos permanentes. Na segunda rodada, terão que gastar um tempo pra consertar o barco após o combate. Se chegar numa terceira rodada, o barco começa a afundar. Ao menos uma das sereias deve ser morta para que elas parem.\n\n8. Os jogadores começam a sentir raiva uns os outros e sentem vontade de se atacar, Disciplina (DT10) corta o efeito.\n\n#espacamento",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -4280,
+      "y": -359,
+      "width": 200,
+      "height": 466,
+      "color": "#ff38a2"
+    },
+    {
+      "id": "be95de92b4395a9e",
+      "type": "text",
+      "text": "Os Nascidos",
+      "ffcBorder": "none",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -3094,
+      "y": -1120,
+      "width": 320,
+      "height": 50,
+      "color": "#89919d"
+    },
+    {
+      "id": "9490db1e4dcd7677",
+      "type": "text",
+      "text": "###### 5 PV\n\n**Físico 1d8**\n**Mente 1d4**\n**Emoção 1d4**\n\nAtletismo 1d6\nLuta 1d6",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -3094,
+      "y": -1070,
+      "width": 320,
+      "height": 259,
+      "color": "#89919d"
+    },
+    {
+      "ffcKind": "text",
+      "id": "50b5efe127be4c8f",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\nOs Nascidos são os corpos que emergem ao comando de Agnostos. São conhecidos como filhos do inexplorado e também se originam da lenda *Agnostos e o Marinheiro*\n\n#carta-antiga",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -3094,
+      "y": -811,
+      "width": 320,
+      "height": 151
+    },
+    {
+      "id": "826790712978c8dc",
+      "type": "file",
+      "file": "Corpos.jpeg",
+      "x": -3300,
+      "y": -1120,
+      "width": 206,
+      "height": 309
+    },
+    {
+      "id": "55ac212ae3e62cc1",
+      "type": "text",
+      "text": "**Corpo a Corpo** Agarrar 1d8+1d6\n\nUm nascido tenta te segurar, Atletismo DT 8 pra se soltar.",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -3300,
+      "y": -811,
+      "width": 206,
+      "height": 151,
+      "color": "#89919d"
+    },
+    {
+      "id": "4f61daa3ae022dbf",
+      "type": "text",
+      "text": "**Comportamento Errático** No início da rodada, a cada 2 rodadas, as sereias fazem algum tipo de ataque coletivo. Role 1d8 na tabela ao lado, e as sereias vão realizar o ataque rolado. Caso o problema não seja resolvido nas duas rodadas, eles se acumulam.\n\n**Corpo a Corpo** Garras 1d8+1d6 (Dano RB+1) ",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -4800,
+      "y": -60,
+      "width": 520,
+      "height": 166,
+      "color": "#ff38a2"
+    },
+    {
+      "id": "aecb3972f9052911",
+      "type": "file",
+      "file": "Criatura Arbórea de Muitos Olhos.png",
+      "x": -4800,
+      "y": 1244,
+      "width": 200,
+      "height": 300
+    },
+    {
+      "id": "341cd01bd04e7eb9",
+      "type": "text",
+      "text": "O Inquiridor",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "bcTextAlign": "center",
+      "bcAutoResize": false,
+      "x": -4600,
+      "y": 1244,
+      "width": 320,
+      "height": 50,
+      "color": "#b08968"
+    },
+    {
+      "id": "91169b2a9f627cff",
+      "type": "text",
+      "text": "###### 60 PV\n\n**Físico 1d6**\n**Mente 1d20**\n**Emoção 1d8**\n\nPercepção 1d20\nAtletismo 1d6\nLuta 1d8",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -4600,
+      "y": 1294,
+      "width": 320,
+      "height": 249,
+      "color": "#b08968"
+    },
+    {
+      "id": "eb2ea436968949fd",
+      "type": "text",
+      "text": "**Corpo a corpo** Garras - 1d6+1d8 (Dano RA+2)\n\n**Pergunta** O Inquiridor faz uma pergunta para um jogador e espera uma resposta. Caso o jogador não responda, ele se enfurece.",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "x": -4800,
+      "y": 1078,
+      "width": 520,
+      "height": 166,
+      "color": "#b08968"
+    },
+    {
+      "id": "5c1fd14621255d19",
+      "type": "text",
+      "text": "**Olhos do inquisidor**\nO Inquisidor tem olhos espalhados por toda a caverna, então enquanto estiver dentro dela, não pode ser pego desprevenido e sabe de tudo o que acontece lá dentro.\n\n**Agarrar**\nQuando um jogador evita responder uma pergunta e o Inquiridor acerta o ataque, pode agarrar um jogador com seus galhos para que ele responda. Atletismo DT10 te solta.",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -4280,
+      "y": 1078,
+      "width": 200,
+      "height": 466,
+      "color": "#b08968"
+    },
+    {
+      "ffcKind": "text",
+      "id": "26673c19b6cb7d8a",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\nPara descobrir algo novo, é necessário ter alguma pergunta. Lugares que guardam muito conhecimento inacessado são ambientes propícios para o nascimento de um inquiridor, uma criatura que quer descobertas, ele faz perguntas e espera respostas. Se permitir uma reflexão é o que o deixa satisfeito.\n#carta-antiga",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -4799,
+      "y": 960,
+      "width": 720,
+      "height": 118
+    },
+    {
+      "id": "ed54da32130cf8c3",
+      "type": "file",
+      "file": "08b36c98e69c10f4231fe9f42e0a5f40-removebg-preview.png",
+      "x": -4800,
+      "y": 1564,
+      "width": 720,
+      "height": 720
+    },
+    {
+      "id": "ac77f893b1f4f45c",
+      "type": "file",
+      "file": "Afogados.jpeg",
+      "x": -1298,
+      "y": -359,
+      "width": 200,
+      "height": 300
+    },
+    {
+      "id": "b563ae40c6a068ca",
+      "type": "text",
+      "text": "**Corpo a corpo** Afogar - 1d8+1d6\n\n**Corpo a corpo** Garras - 1d8+1d6 (Dano RA+1)",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -1298,
+      "y": -58,
+      "width": 520,
+      "height": 166,
+      "color": "#e8b75a"
+    },
+    {
+      "id": "d0c67f9518a51e39",
+      "type": "text",
+      "text": "Afogado",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "bcTextAlign": "center",
+      "bcAutoResize": false,
+      "x": -1098,
+      "y": -359,
+      "width": 320,
+      "height": 51,
+      "color": "#e8b75a"
+    },
+    {
+      "id": "a9c87b3678bf7908",
+      "type": "text",
+      "text": "###### 10 PV\n\n**Físico 1d8**\n**Mente 1d4**\n**Emoção 1d4**\n\nAtletismo 1d8\nLuta 1d6",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -1098,
+      "y": -308,
+      "width": 318,
+      "height": 249,
+      "color": "#e8b75a"
+    },
+    {
+      "id": "0f60cfe309294e49",
+      "type": "text",
+      "text": "**Afogar**\n\nO afogado agarra e empurra a vítima\ncontra a água. Enquanto estiver agarrada, a vítima só pode tentar escapar (não pode fazer outras ações) e perde 1d6PV no final de cada rodada.\n\n- Escapar: Na fase de ataque corpo a corpo, a vítima faz um teste de Acrobacia ou Luta (à sua escolha) oposto ao teste de Luta do afogado. A vítima sofre uma redução de passo no teste. Se vencer, se solta (não sofre dano no final desta rodada e pode agir normalmente a partir da próxima). Se perder, pode tentar de novo na próxima rodada.\n\nOutros personagens podem gastar suas ações para salvar a vítima, fazendo o mesmo teste (mas sem sofrer a redução de passo).\n\nO afogado só pode usar esta habilidade se estiver perto de um corpo d’água e, enquanto estiver agarrando uma vítima, não pode fazer outras ações.\n#espacamento ",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -780,
+      "y": -359,
+      "width": 200,
+      "height": 467,
+      "color": "#e8b75a"
+    },
+    {
+      "ffcKind": "text",
+      "id": "bfab9980f3342c97",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\nUma forma rastejante coberta de lama e vegetação, com a pele tão encharcada que, em vários pontos, se desfez. Dos buracos que se abriram, assim como sua boca e olhos, verte água e lodo.\nA estratégia de um afogado é simples: se ele estiver perto de uma fonte d’água, avança na direção da pessoa mais próxima, tenta ferí-la (ataque Garras) e afogá-la (ataque Afogar). Caso contrário, simplesmente tenta espancá-la até a morte (ataque Garras).\n#carta-antiga ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1300,
+      "y": 108,
+      "width": 720,
+      "height": 118
+    },
+    {
+      "id": "c7eaa5e48cececfb",
+      "type": "file",
+      "file": "Morte.png",
+      "x": -1298,
+      "y": -1120,
+      "width": 720,
+      "height": 720
+    },
+    {
+      "id": "d5984bfc585de6e0",
+      "type": "file",
+      "file": "images-removebg-preview.png",
+      "x": -1298,
+      "y": 1564,
+      "width": 721,
+      "height": 721
+    },
+    {
+      "id": "9d08f984e638ca95",
+      "type": "file",
+      "file": "Aughisk.jpeg",
+      "x": -1600,
+      "y": -1120,
+      "width": 273,
+      "height": 299
+    }
+  ],
+  "edges": [
+    {
+      "id": "0165e17452257c93",
+      "fromNode": "91169b2a9f627cff",
+      "fromSide": "left",
+      "toNode": "aecb3972f9052911",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0",
+    "frontmatter": {}
+  }
+}

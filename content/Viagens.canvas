@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "24eed0a2c083ee7b",
+      "type": "text",
+      "text": "Quanto tempo elas duram\nConsumo de suprimentos\nPossíveis eventos\nEstado do mar",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": -260,
+      "y": 60,
+      "width": 246,
+      "height": 122
+    },
+    {
+      "id": "1ecf0521574d497c",
+      "type": "text",
+      "text": "Eventos comuns\nSociais\nClimáticos\nParanormais\nOutros navios\nAcidentes",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": true,
+      "x": 0,
+      "y": -104,
+      "width": 170,
+      "height": 173
+    },
+    {
+      "id": "4ca4453ad516bac8",
+      "type": "text",
+      "text": "Tabela de eventos aleatórios",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": true,
+      "x": -320,
+      "y": -200,
+      "width": 260,
+      "height": 46
+    }
+  ],
+  "edges": []
+}
