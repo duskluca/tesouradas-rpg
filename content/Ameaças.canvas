@@ -525,6 +525,99 @@
       "y": -1120,
       "width": 273,
       "height": 299
+    },
+    {
+      "id": "f09f21133b499084",
+      "type": "file",
+      "file": "Fera Espectral no Pergaminho 1.png",
+      "x": -4040,
+      "y": 1564,
+      "width": 199,
+      "height": 299
+    },
+    {
+      "id": "5304e568d5f9ff31",
+      "type": "text",
+      "text": "O caruncho",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "bcTextAlign": "center",
+      "bcAutoResize": false,
+      "x": -3841,
+      "y": 1564,
+      "width": 320,
+      "height": 51,
+      "color": "#8b9bb4"
+    },
+    {
+      "id": "914cfd682c5214fc",
+      "type": "text",
+      "text": "###### 85 PV\n\n**Físico 1d10**\n**Mente 1d4**\n**Emoção 1d8**\n\nAtletismo 1d8\nLuta 1d10\nFurtividade 1d12",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -3841,
+      "y": 1615,
+      "width": 318,
+      "height": 249,
+      "color": "#8b9bb4"
+    },
+    {
+      "id": "ddabd1837f5c87c4",
+      "type": "text",
+      "text": "**Induzir ao sonho**\nSe conseguir agarrar um personagem e ele não for solto até a próxima rodada, o Caruncho consegue prendê-lo de volta em um sonho. As rodadas desse personagem ocorrem dentro do sonho e ele só consegue sair se for solto pela criatura.",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -3521,
+      "y": 1564,
+      "width": 200,
+      "height": 467,
+      "color": "#8b9bb4"
+    },
+    {
+      "id": "8d5c02dc5b1304bd",
+      "type": "text",
+      "text": "**Corpo a corpo** Garras 1d10+1d10 (Dano RA + 2)\n\n**Corpo a corpo** Agarrar Quando acerta um ataque, pode fazer um teste DT8 para agarrar o alvo",
+      "ffcBorder": "none",
+      "styleAttributes": {
+        "border": "invisible",
+        "textAlign": "left"
+      },
+      "bcTextAlign": "left",
+      "bcAutoResize": false,
+      "x": -4043,
+      "y": 1864,
+      "width": 520,
+      "height": 166,
+      "color": "#8b9bb4"
+    },
+    {
+      "ffcKind": "text",
+      "id": "3c4c5ac307bb669b",
+      "type": "text",
+      "text": "---\ncssclasses:\n  - carta-antiga\n---\n\n#carta-antiga",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -4043,
+      "y": 2031,
+      "width": 720,
+      "height": 118
     }
   ],
   "edges": [

@@ -1,0 +1,322 @@
+{
+  "nodes": [
+    {
+      "id": "46173b789719a2a9",
+      "type": "text",
+      "text": "O pesadelo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -460,
+      "y": -280,
+      "width": 660,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "00459ad9df421460",
+      "type": "text",
+      "text": "==🔴Contexto==\n\nTodos eles escutam barulhos de invasão no convés, passos pesados, coisas quebrando, impactos no chão do convés...\nMas, ao chegar lá, dão de cara com um inimigo que não podem ver, os invasores são invisíveis.\nEles devem acertar eles através de outros sentidos.\nEles acordam do sonho quando morrerem nele ou se forçarem a acordar.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcBorderStyle": "solid",
+      "x": -460,
+      "y": -220,
+      "width": 330,
+      "height": 300
+    },
+    {
+      "id": "ddbff90b251c0c72",
+      "type": "text",
+      "text": "==🔴Mecânica do combate==\n\nEles tem que enfrentar os inimigos mas, como eles são invisíveis, o teste se torna de Percepção + Luta ou Percepção + Pontaria, ao invés de usar o atributo.\n\nPara acordar, um personagem precisa zerar seus PVs ou causar a si mesmo ao menos 5 de dano em uma única ação.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -130,
+      "y": -220,
+      "width": 330,
+      "height": 300
+    },
+    {
+      "id": "3c05f144741c92d9",
+      "type": "text",
+      "text": "~={red}Parte 1=~",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "bcAutoResize": true,
+      "bcBorderStyle": "invisible",
+      "x": -180,
+      "y": -360,
+      "width": 100,
+      "height": 46
+    },
+    {
+      "id": "da0f122ade5059f9",
+      "type": "text",
+      "text": "Ficha dos Fantasmas",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -900,
+      "y": -280,
+      "width": 382,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "40591f73f6a7cb63",
+      "type": "text",
+      "text": "###### 20/20PV\n**Físico** 1d8\n**Emoção** 1d10\n**Mente** 1d6\n\nAtletismo 1d10\nBruxaria 1d6\nCrime 1d8\nLuta 1d10\n",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -900,
+      "y": -220,
+      "width": 191,
+      "height": 300
+    },
+    {
+      "id": "d8f80db421ed0dba",
+      "type": "text",
+      "text": "==🔴**Corpo a Corpo**== Golpe invisível 1d8 + 1d10 (Dano RA)\n\n==🔴**Corpo a Corpo**== Empurrão 1d8 + 1d10 (Dano RA)\n\n==🔴**Livre**== Imitação\nA voz de algum personagem do mestre dá instruções confusas, atrapalhando algum jogador\n\n#espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -709,
+      "y": -220,
+      "width": 191,
+      "height": 300
+    },
+    {
+      "id": "db9bd9da0a7c3e24",
+      "type": "text",
+      "text": "O Caruncho",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -460,
+      "y": 100,
+      "width": 660,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "52e04e0f88b07a31",
+      "type": "file",
+      "file": "Fera Espectral no Pergaminhoo.png",
+      "x": -460,
+      "y": 160,
+      "width": 330,
+      "height": 330
+    },
+    {
+      "id": "c63d490e6c293801",
+      "type": "text",
+      "text": "Enquanto o sonho ocorrer, o Caruncho vai pegar alguém da tripulação. Eles vão ouvir barulhos vindo do caminho que a criatura está fazendo com o corpo da pessoa.\nAo final de cada rodada, a pessoa capturada perde 1d6 PV.\nPara o caruncho soltar a pessoa agarrada, ele deve sofrer um ataque de ao menos 5 pontos de dano.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -130,
+      "y": 160,
+      "width": 330,
+      "height": 330
+    },
+    {
+      "id": "dc21a4e5035c5e62",
+      "type": "text",
+      "text": "A criatura vai continuar buscando diferentes vítimas sempre que a anterior for solta, até finalmente ser derrotado. Quando agarra alguém, ele salta para outra parte do barco.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -460,
+      "y": 490,
+      "width": 660,
+      "height": 90
+    },
+    {
+      "id": "b79ec44027927e22",
+      "type": "text",
+      "text": "Os fantasmas vem em grupos de 3 de cada vez, e assim que os 3 são derrotados, os próximos surgem. Eles continuam surgindo até que os jogadores saiam do sonho.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -900,
+      "y": 80,
+      "width": 382,
+      "height": 120,
+      "color": "#dc8298"
+    },
+    {
+      "id": "7fbd64e60d83ae7c",
+      "type": "text",
+      "text": "Pistas",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -900,
+      "y": 220,
+      "width": 382,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "11ad59daffd3842d",
+      "type": "text",
+      "text": "- O barco não se move ou balança e as bandeiras e cordas estão paradas.\n- Os jogadores podem fazer ações que parecem impossíveis, como pular de lugares altos, atravessar portas, etc.\n- Se alguém tentar sair, eventualmente se encontra no convés de novo",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -900,
+      "y": 280,
+      "width": 382,
+      "height": 300
+    },
+    {
+      "id": "5fb09b7f1bc27545",
+      "type": "text",
+      "text": "~={red}Parte 2=~",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "bcAutoResize": true,
+      "bcBorderStyle": "invisible",
+      "x": 840,
+      "y": -360,
+      "width": 100,
+      "height": 46
+    },
+    {
+      "link": "obsidian://open?vault=Tesouradas&file=Ilha%20Cemit%C3%A9rio%20de%20navios.canvas",
+      "id": "ff2c8aa8c2956f5d",
+      "type": "file",
+      "file": "Mapa Fantasma da Ilha Encantada.png",
+      "x": 690,
+      "y": -280,
+      "width": 400,
+      "height": 267
+    },
+    {
+      "id": "9903532df2b75e35",
+      "type": "text",
+      "text": "Quest Cemitério de Navios",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 690,
+      "y": -13,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "b30d726f68b507b9",
+      "type": "text",
+      "text": "~={red}Parte 3=~",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "invisible"
+      },
+      "bcAutoResize": true,
+      "bcBorderStyle": "invisible",
+      "x": 1920,
+      "y": -360,
+      "width": 100,
+      "height": 46
+    },
+    {
+      "id": "918208b567cd7ea3",
+      "type": "text",
+      "text": "Depois disso, eles vão em direção a uma ilha comumente conhecida pela alta qualidade dos tecidos. Entretanto, no caminho, uma fortíssima correnteza leva o barco até o Cemitério de Navios.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -900,
+      "y": 620,
+      "width": 1100,
+      "height": 100,
+      "color": "#dc8298"
+    },
+    {
+      "id": "b2b2d627bb1a4a22",
+      "type": "text",
+      "text": "A Ilha de Sarga",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1640,
+      "y": -280,
+      "width": 660,
+      "height": 60,
+      "color": "#dc8298"
+    },
+    {
+      "id": "ae186aa04575fae9",
+      "type": "text",
+      "text": "Aqui, os jogadores vão comprar suas roupas para o baile. Majoritariamente só interação.",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": 1640,
+      "y": -220,
+      "width": 660,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "6221f31df5cfb973",
+      "fromNode": "3c05f144741c92d9",
+      "fromSide": "right",
+      "toNode": "5fb09b7f1bc27545",
+      "toSide": "left",
+      "color": "#aa5555"
+    },
+    {
+      "id": "d640a8447105f2f7",
+      "fromNode": "5fb09b7f1bc27545",
+      "fromSide": "right",
+      "toNode": "b30d726f68b507b9",
+      "toSide": "left",
+      "color": "#aa5555"
+    }
+  ]
+}

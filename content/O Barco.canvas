@@ -58,7 +58,7 @@
     {
       "id": "d806eb6e2c6c726a",
       "type": "text",
-      "text": "Poti é filho de uma mulher indígena que foi violentada por um colonizador português, ele vivia em paz com sua mãe e sempre teve facilidade para fugir de problemas devido ao porte esguio e sua agilidade, que foi o que o salvou quando sua mãe, quem sempre o protegeu, morreu.\nNesse dia, Poti conheceu Gaspar, que o acolheu em sua nova vida.",
+      "text": "###### 20/22PV\n\nPoti é filho de uma mulher indígena que foi violentada por um colonizador português, ele vivia em paz com sua mãe e sempre teve facilidade para fugir de problemas devido ao porte esguio e sua agilidade, que foi o que o salvou quando sua mãe, quem sempre o protegeu, morreu.\nNesse dia, Poti conheceu Gaspar, que o acolheu em sua nova vida.",
       "bcTextAlign": "left",
       "styleAttributes": {
         "textAlign": "left"
@@ -98,7 +98,7 @@
     {
       "id": "d94084191bf47516",
       "type": "text",
-      "text": "Gaspar era um homem português, que virou um navegador comercial muito cedo na vida e perdeu grande parte das convenções sociais da vida, ou seja, nunca teve uma mulher ou filhos.\nApós muitas décadas trabalhando com navegações, durante uma de suas paradas no Brasil, encontrou um jovem garoto sozinho, que havia acabado de perder sua mãe, Poti. \nGaspar queria poder resgatar e acolher o garoto, mas sua tripulação não permitiu, o que iniciou uma briga. Gaspar decidiu deixar a tripulação já que se sentia sufocado pela hierarquia e agora gostaria de cuidar do garoto.\nJunto de Poti, ele juntou dinheiro e comprou seu próprio barco, onde navegou e encontrou o resto da tripulação.",
+      "text": "###### 32/32PV\n\nGaspar era um homem português, que virou um navegador comercial muito cedo na vida e perdeu grande parte das convenções sociais da vida, ou seja, nunca teve uma mulher ou filhos.\nApós muitas décadas trabalhando com navegações, durante uma de suas paradas no Brasil, encontrou um jovem garoto sozinho, que havia acabado de perder sua mãe, Poti. \nGaspar queria poder resgatar e acolher o garoto, mas sua tripulação não permitiu, o que iniciou uma briga. Gaspar decidiu deixar a tripulação já que se sentia sufocado pela hierarquia e agora gostaria de cuidar do garoto.\nJunto de Poti, ele juntou dinheiro e comprou seu próprio barco, onde navegou e encontrou o resto da tripulação.",
       "bcTextAlign": "left",
       "styleAttributes": {
         "textAlign": "left"
@@ -121,7 +121,7 @@
     {
       "id": "00c05d834cc9b3f7",
       "type": "text",
-      "text": "Philippe morava em uma região pobre da França com seus pais e um irmão mais novo, que adoeceu e morreu devido a falta de dinheiro para seus cuidados.\nApós a perda, a mãe dele entrou em depressão profunda e não conseguiu continuar trabalhando, o que afetou ainda mais a condição financeira da família.\nPhilippe, desesperado, começou a sair para roubar tentando ajudar as condições da família, mas não parecia ser o suficiente. Foi como o garoto perdeu seu olho.\nDecepcionado, ele foi ao porto e tentou se afogar, sendo salvo por Gaspar, que acreditou que fosse um acidente. A recepção calorosa fez com que Philippe decidisse continuar navegando com a tripulação, ao menos até ter o suficiente para ajudar seus pais.",
+      "text": "###### 28/28PV\n\nPhilippe morava em uma região pobre da França com seus pais e um irmão mais novo, que adoeceu e morreu devido a falta de dinheiro para seus cuidados.\nApós a perda, a mãe dele entrou em depressão profunda e não conseguiu continuar trabalhando, o que afetou ainda mais a condição financeira da família.\nPhilippe, desesperado, começou a sair para roubar tentando ajudar as condições da família, mas não parecia ser o suficiente. Foi como o garoto perdeu seu olho.\nDecepcionado, ele foi ao porto e tentou se afogar, sendo salvo por Gaspar, que acreditou que fosse um acidente. A recepção calorosa fez com que Philippe decidisse continuar navegando com a tripulação, ao menos até ter o suficiente para ajudar seus pais.",
       "bcTextAlign": "left",
       "styleAttributes": {
         "textAlign": "left"
@@ -662,7 +662,7 @@
     {
       "id": "b4c19699302dff23",
       "type": "text",
-      "text": "O Bento é filho de mercadores portuários. Um dia, seus pais viajaram com ele para negociar com um outro mercador, sem saber que o homem estava endividado.\nDurante a visita, um homem veio cobrar sua dívida, então os pais de Bento pediram para ele se esconder, e foi o que ele fez.\nPresentes no lugar errado, os pais de Bento foram assassinados e ele foi encontrado um tempo depois pela tripulação, ainda escondido.",
+      "text": "###### 10/10PV\n\nO Bento é filho de mercadores portuários. Um dia, seus pais viajaram com ele para negociar com um outro mercador, sem saber que o homem estava endividado.\nDurante a visita, um homem veio cobrar sua dívida, então os pais de Bento pediram para ele se esconder, e foi o que ele fez.\nPresentes no lugar errado, os pais de Bento foram assassinados e ele foi encontrado um tempo depois pela tripulação, ainda escondido.",
       "bcTextAlign": "left",
       "styleAttributes": {
         "textAlign": "left"
@@ -718,6 +718,72 @@
       "y": 530,
       "width": 245,
       "height": 200
+    },
+    {
+      "id": "6868438d2eb1685f",
+      "type": "text",
+      "text": "Clarissa Blyth",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2980,
+      "y": -530,
+      "width": 260,
+      "height": 50,
+      "color": "#e8b75a"
+    },
+    {
+      "id": "3b746557e1c5e3ee",
+      "type": "text",
+      "text": "###### ==🟠18/20PV==\n###### ==🟠13/22PD==\n\n**Físico** 1d6\n**Mente** 1d10\n**Emoção** 1d8\n\n==🟠Analista== - ==🟠Estudiosa==\n\n",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2720,
+      "y": -530,
+      "width": 250,
+      "height": 310
+    },
+    {
+      "id": "990c9b60b7bee58b",
+      "type": "file",
+      "file": "Clarissa.jpeg",
+      "x": -2980,
+      "y": -480,
+      "width": 260,
+      "height": 260
+    },
+    {
+      "id": "e62234ac5e182256",
+      "type": "text",
+      "text": "==🟠**Perícias**==\n\nAcrobacia 1d4\nAnimais 1d4\nAptidão - Artes 1d6\nAptidão - Erudição 1d10\nAtletismo 1d6 (-2 permanente)\nBruxaria 1d4\nCrime 1d4\nDisciplina 1d8\nEnganação 1d4\nFurtividade 1d6\nIntimidar 1d4\nIntuição 1d8\nInspecionar 1d10\nLuta 1d4\nMedicina 1d8\nMetalurgia 1d4\nPercepção 1d8\nPersuasão 1d4\nPontaria 1d6\nSobrevivência 1d4\nVigor 1d4\nMemória 1d8\nPilotagem 1d4\n#espacamento ",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -2980,
+      "y": -220,
+      "width": 260,
+      "height": 600
+    },
+    {
+      "id": "2296c18f5e434b4a",
+      "type": "text",
+      "text": "==🟠**Habilidades**:==\n- Você pode gastar 2PE para se lembrar de uma informação útil. Se fizer um teste com ela, recebe um aumento de passo.\n- Você pode gastar uma ação para receber 2 marcadores de análise. Quando faz um teste, pode gastar quantos marcadores quiser após rolar os dados. Para cada marcador gasto, pode mudar o resultado de um dado em +1 ou –1 (até o máximo do dado). Você pode acumular no máximo 4 marcadores de análise e, no fim da cena, perde quaisquer marcadores não usados.\n\n #espacamento ",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "bcAutoResize": false,
+      "x": -2720,
+      "y": -220,
+      "width": 250,
+      "height": 600
     }
   ],
   "edges": [

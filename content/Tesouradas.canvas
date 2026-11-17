@@ -165,6 +165,38 @@
       "width": 182,
       "height": 50,
       "color": "#e8798f"
+    },
+    {
+      "id": "b9bfc745b41f71cf",
+      "type": "text",
+      "text": "Sessão 2\n",
+      "bcTextAlign": "center",
+      "styleAttributes": {
+        "textAlign": "center",
+        "border": "solid"
+      },
+      "bcAutoResize": false,
+      "bcShape": "default",
+      "bcBorderStyle": "solid",
+      "x": -1600,
+      "y": -220,
+      "width": 720,
+      "height": 60,
+      "color": "#e8798f"
+    },
+    {
+      "id": "f6f2cdc13feb02fd",
+      "type": "text",
+      "text": "Eles conheceram a Ilha do Conhecimento, onde investigaram a base do ocultista encontraram com o Inquiridor, que quase matou a Clarissa. Quando as outras meninas estavam recebendo o tratamento médico, Barbara voltou na caverna e finalizou o ritual da chama, se tornando capaz de transcender e aprender um ritual.\nApós os acontecimentos nessa ilha, Gaspar mencionou uma outra, que era um lugar bem comum para os piratas visitarem. Chegando lá, descobrem que a ilha está afundando aos poucos.\nEles descobrem que uma mulher está oferecendo uma boa recompensa para quem achar seu filho, e eles decidem tentar. Após atravessar a ilha, o resgate corre bem e eles conseguem receber as recompensas.\nCom esse valor, Barbara negocia um barco novo.",
+      "bcTextAlign": "left",
+      "styleAttributes": {
+        "textAlign": "left"
+      },
+      "bcAutoResize": false,
+      "x": -1600,
+      "y": -160,
+      "width": 720,
+      "height": 180
     }
   ],
   "edges": []
